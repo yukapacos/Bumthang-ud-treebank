@@ -1,4 +1,4 @@
-# Bumthang-ud-treebank
+# UD_Bumthang_treebank
 Bumthang Dependency Treebank (BDT)
 - A Universal Dependencies corpus for Bumthang, a Tibeto-Burman language
 
