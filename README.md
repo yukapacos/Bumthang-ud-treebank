@@ -5,6 +5,7 @@ Bumthang Dependency Treebank (BDT)
 BDT was built for a honours project at the Australian National University.
 
 DESIGN
+
 It contains: 
 - 1,044 Bumthang sentences 
 - 5,033 words
@@ -16,8 +17,9 @@ All the sentences were was mostly collected from linguistic elicitation conducte
 The sentences were manually annotated into Universal Dependencies, following the CoNLL-U format.
 
 CONTRIBUTOR
+
 Bumthang Dependency Treebank was created by:
-- Yuka Morinaga (yuka.morinaga28@gmail.com)
+- Yuka Morinaga (yuka.morinaga28[at]gmail.com)
 
 KNOWN ISSUES
 - The size of BDT is extremely small. Over 1,000 Bumthang sentences are yet to be annotated to be incorporated into BDT.
