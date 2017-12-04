@@ -1,6 +1,6 @@
 # sent_id = 1
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden-i sha-bu-s bi-ge?
+# text = Lekden-i zhra bus-bige?
 # trans = What did Lekden do?
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	3	nsubj	_	_
 2	zhra	zhra	PRON	_	PronType=Int	3	obj	_	_
@@ -9,7 +9,7 @@
 
 # sent_id = 2
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden sha-bu-s bi-ge?
+# text = Lekden zhra bus-bige?
 # trans = What happened to Lekden?
 1	Lekden	Lekden	PROPN	_	_	3	obj	_	_
 2	zhra	zhra	PRON	_	Case=Abs|PronType=Int	3	nsubj	_	_
@@ -18,16 +18,16 @@
 
 # sent_id = 3
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden lu tung za.
+# text = Lekden lu thung-za.
 # trans = Lekden was dancing
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	3	nsubj	_	_
 2	lu	lu	NOUN	_	_	3	obj	_	_
 3	thungza	thung	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 25
+# sent_id = 4
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = lu tung kan ai-jo?
+# text = Lu thung-khan ae yo?
 # trans = Who was dancing?
 1	Lu	lu	NOUN	_	_	2	obj	_	_
 2	thungkhan	thung	VERB	_	VerbForm=Inf	3	acl	_	_
@@ -35,9 +35,9 @@
 4	yo	yo	INTJ	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 26
+# sent_id = 5
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = lu tung kan Lekden wen za
+# text = Lu thung-khan Lekden-i wen-za.
 # trans = The one who was dancing was Lekden
 1	Lu	lu	NOUN	_	_	2	obj	_	_
 2	thungkhan	thung	VERB	_	VerbForm=Inf	3	acl	_	_
@@ -45,59 +45,59 @@
 4	wenza	wen	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 27
+# sent_id = 6
 # file_id =FM15_20150904_8_2_Tom.wav
-# text = Sha-bu-zi ge?
+# text = Zhra bu-zi-ge?
 # trans = What was happening?
 1	Zhra	zhra	PRON	_	Case=Abs|PronType=Int	2	nsubj	_	_
-2	buzige	buzi	AUX	_	VerbForm=Conv	0	root	_	_
+2	buzige	bu	AUX	_	VerbForm=Conv	0	root	_	_
 3	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 28
+# sent_id = 7
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden-i lu tung za
+# text = Lekden-i lu thung-za.
 # trans = Lekden was dancing.
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	3	nsubj	_	_
 2	lu	lu	NOUN	_	_	3	obj	_	_
 3	thungza	thung	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 29
+# sent_id = 8
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden nang za
+# text = Lekden nang-za.
 # trans = Lekden was choking
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	2	nsubj	_	_
 2	nangza	nang	VERB	_	Aspect=Imp	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 30
+# sent_id = 9
 # file_id = FM15_20150807_4_1_Naomi
-# text = ngat katzan=ra na
+# text = Ngat kacan-ra na.
 # trans = I'm fine
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	2	nsubj	_	_
 2	kacanra	kacan	ADJ	_	Degree=Pos	0	root	_	_
 3	na	na	COP	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 31
+# sent_id = 10
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = nang kan ai-jo?
+# text = Nang-khan ae yo?
 # trans = Who was choking?
 1	Nangkhan	nang	VERB	_	VerbForm=Inf	2	acl	_	_
 2	ae	ae	PRON	_	Case=Erg|PronType=Int	0	root	_	_
 3	yo	yo	INTJ	_	_	2	discourse	_	_
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 32
+# sent_id = 11
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = nang kan Lekden wen za
+# text = Nang-khan Lekden wen-za.
 # trans = The one who was choking was Lekden.
 1	Nangkhan	nang	VERB	_	VerbForm=Inf	2	acl	_	_
 2	Lekden	Lekden	PROPN	_	_	0	root	_	_
 3	wenza	wen	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 33
+# sent_id = 12
 # file_id = FM15_20150904_8_2_Tom.wav
 # text = Lekden nang-na.
 # trans = Lekden started to choke (? I think)
@@ -105,60 +105,60 @@
 2	nangna	nang	VERB	_	Aspect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 34
+# sent_id = 13
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden nang za
+# text = Lekden nang-za.
 # trans = Lekden is choking
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	2	nsubj	_	_
 2	nangza	nang	VERB	_	Aspect=Imp	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 37
+# sent_id = 14
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = onga athiu bu-na.
+# text = Onga achiu bu-na.
 # trans = The child sneezed
 1	Onga	onga	NOUN	_	Case=Abs	3	nsubj	_	_
 2	achiu	achiu	NOUN	_	_	3	obj	_	_
 3	buna	bu	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 38
+# sent_id = 15
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden-i tchu-na.
+# text = Lekden-i cu-na.
 # trans = Lekden started to vomit
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	2	nsubj	_	_
 2	cuna	cuk	VERB	_	Apect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 39
+# sent_id = 16
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden tchuk-za.
+# text = Lekden cuk-za.
 # trans = Lekden (is?) vomiting
 1	Lekden	Lekden	PROPN	_	Case=Abs	2	nsubj	_	_
 2	cukza	cuk	VERB	_	Aspect=Imp	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 40
+# sent_id = 17
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden athiu bu-na.
+# text = Lekden achiu bu-na.
 # trans = Lekden sneezed.
 1	Lekden	Lekden	PROPN	_	Case=Abs	3	nsubj	_	_
 2	achiu	achiu	NOUN	_	_	3	obj	_	_
 3	buna	bu	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 41
+# sent_id = 18
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden athiu bu-za
+# text = Lekden achiu bu-za.
 # trans = Lekden was sneezing.
 1	Lekden	Lekden	PROPN	_	Case=Abs	3	nsubj	_	_
 2	achiu	achiu	NOUN	_	_	3	obj	_	_
 3	buza	bu	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 47
+# sent_id = 19
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden-i karma zon lu tung.
+# text = Lekdeni karma zon lu thung.
 # trans = Lekden danced for 2 minutes.
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	5	nsubj	_	_
 2	karma	karma	NOUN	_	_	5	nmod:tmod	_	_
@@ -167,9 +167,9 @@
 5	thung	thung	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 48
+# sent_id = 20
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden-i karma zon seng tchir.
+# text = Lekdeni karma zon seng cir.
 # trans = Lekden chopped firewood for 2 minutes
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	5	nsubj	_	_
 2	karma	karma	NOUN	_	_	5	nmod:tmod	_	_
@@ -178,9 +178,9 @@
 5	cir	cir	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 49
+# sent_id = 21
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden-i karma zoni nango seng tchir zi za-s.
+# text = Lekdeni karma zon-i nang-o seng cir-zi za-s.
 # trans = Lekden chopped firewood in 2 minutes.
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	6	nsubj	_	_
 2	karma	karma	NOUN	_	_	4	nmod:tmod	_	_
@@ -191,9 +191,9 @@
 7	zas	zat	AUX	_	Aspect=Perf	6	aux	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 50
+# sent_id = 22
 # file_id = FM15_20150904_8_2_Tom.wav
-# text = Lekden karma zon tchu.
+# text = Lekden karma zon cu.
 # trans = Lekden vomited for 2 minutes
 1	Lekden	Lekden	PROPN	_	Case=Abs	4	nsubj	_	_
 2	karma	karma	NOUN	_	_	4	nmod:tmod	_	_
@@ -201,7 +201,7 @@
 4	cu	cuk	VERB	_	_	0	root	_	_	
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 51
+# sent_id = 23
 # file_id = FM15_20150814_3_12_Yuka
 # text = Catherine zarwa yak-i zu-za.
 # trans = Catherine eats zarwa with her hands.
@@ -211,9 +211,9 @@
 4	zuza	zu	VERB	_	Aspect=Imp	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 53
+# sent_id = 24
 # file_id = FM15_20150814_3_12_Yuka
-# text = Catherine sudja gilas-(i)-nang-o tong-za.
+# text = Catherine suja gilas-i nang-o thong-za.
 # trans = Catherine is drinking suja in the glass.
 1	Catherine	Catherine	PROPN	_	Case=Abs	5	nsubj	_	_
 2	suja	suja	NOUN	_	_	5	obj	_	_
@@ -222,7 +222,7 @@
 5	thongza	thong	VERB	_	Aspect=Imp	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 54
+# sent_id = 25
 # file_id = FM15_20150814_3_12_Yuka
 # text = Leki igu pen-i di-za.
 # trans = Leki is writing a letter with a pen.
@@ -232,9 +232,9 @@
 4	diza	di	VERB	_	Aspect=Imp	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 55
+# sent_id = 26
 # file_id = FM15_20150814_3_12_Yuka
-# text = Dema Leki igu ponten-i di-na.
+# text = Dema Leki igu phonten-i di-na.
 # trans = Yesterday Leki wrote a letter with a pen.
 1	Dema	dema	NOUN	_	_	5	nmod:tmod	_	_
 2	Leki	Leki	PROPN	_	Case=Erg	5	nsubj	_	_
@@ -243,9 +243,9 @@
 5	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 56
+# sent_id = 27
 # file_id = FM15_20150814_3_12_Yuka
-# text = Dema Leki igu ponten-i di-s.
+# text = Dema Leki igu phonten-i di-s.
 # trans = Yesterday Leki wrote a letter with a pen.
 1	Dema	dema	NOUN	_	_	5	nmod:tmod	_	_
 2	Leki	Leki	PROPN	_	Case=Erg	5	nsubj	_	_
@@ -254,9 +254,9 @@
 5	dis	di	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 57
+# sent_id = 28
 # file_id = FM15_20150814_3_12_Yuka
-# text = Jamba Leki igu ponten-i di-sang wen-za.
+# text = Yamba Leki igu phonten-i di-sang wen-za.
 # trans = Tomorrow Leki will write a letter with a pen.
 1	Yamba	yamba	NOUN	_	_	5	nmod:tmod	_	_
 2	Leki	Leki	PROPN	_	Case=Erg	5	nsubj	_	_
@@ -266,16 +266,16 @@
 6	wenza	wen	AUX	_	Aspect=Imp	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 58
+# sent_id = 29
 # file_id = FM15_20150814_3_12_Yuka
-# text = ngai igu dis.
+# text = Ngai igu di-s.
 # trans = I wrote a letter.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
 3	dis	di	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 59
+# sent_id = 30
 # file_id = FM15_20150814_3_12_Yuka
 # text = Leki Dorji-ro igu-di di-na.
 # trans = Leki wrote a letter to Dorji.
@@ -285,7 +285,7 @@
 4	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 60
+# sent_id = 31
 # file_id = FM15_20150814_3_12_Yuka
 # text = Catherine-i Yuka-ro igu-di di-na.
 # trans = Catherine wrote a letter to Yuka.
@@ -295,9 +295,9 @@
 4	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 61
+# sent_id = 32
 # file_id = FM15_20150814_3_12_Yuka
-# text = Yuk-i Catherine-do igu-di di-na.
+# text = Yuki Catherine-do igu-di di-na.
 # trans = Yuka wrote a letter to Catherine.
 1	Yuki	Yuka	PROPN	_	Case=Erg	4	nsubj	_	_
 2	Catherinedo	Catherine	PROPN	_	Case=Dat	4	obl	_	_
@@ -305,9 +305,9 @@
 4	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 62
+# sent_id = 33
 # file_id = FM15_20150814_3_12_Yuka
-# text = Yuk-i Mark-ro igu-di di-na.
+# text = Yuki Mark-ro igu-di di-na.
 # trans = Yuka wrote a letter to Mark.
 1	Yuki	Yuka	PROPN	_	Case=Erg	4	nsubj	_	_
 2	Markro	Mark	PROPN	_	Case=Dat	4	obl	_	_
@@ -315,27 +315,27 @@
 4	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 63
+# sent_id = 34
 # file_id = FM15_20150814_3_12_Yuka
-# text = Leki [table/kanti]-djero di-na.
+# text = Leki kantri-djero di-na.
 # trans = Leki writes on the table.
 1	Leki	Leki	PROPN	_	Case=Erg	3	nsubj	_	_
 2	kantridjero	kantri	NOUN	_	Case=Loc	3	obl	_	_
 3	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 64
+# sent_id = 35
 # file_id = FM15_20150814_3_12_Yuka
-# text = Dorji kanti-djero ni-na [nyit-na?]
+# text = Dorji kantri-djero nyit-na.
 # trans = Dorji is sitting on the chair.
 1	Dorji	Dorji	PROPN	_	Case=Abs	3	nsubj	_	_
 2	kantridjero	kantri	NOUN	_	Case=Loc	3	obl	_	_
 3	nyitna	nyit	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 65
+# sent_id = 36
 # file_id = FM15_20150814_3_12_Yuka
-# text = Dorji-ning Catherine dopsha djoktsai djero zo-na.
+# text = Dorji-ning Catherine tropshra coktsae-djero zu-na.
 # trans = Dorji and Catherine eat dinner on the 'low table'.
 1	Dorjining	Dorji	PROPN	_	Case=Abs|Case=Com	5	nsubj	_	_
 2	Catherine	Catherine	PROPN	_	_	1	conj	_	_
@@ -344,27 +344,27 @@
 5	zuna	zu	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 66
+# sent_id = 37
 # file_id = FM15_20150814_3_12_Yuka
-# text = Tsai-na sha lop-si-ge?
+# text = Tshaena zhra lap-si-ge?
 # trans = What do you call this?
 1	Tshaena	thsaena	PRON	_	Definite=Def	3	obj	_	_
 2	zhra	zhra	ADV	_	PronType=Int	3	advmod	_	_
 3	lapsige	lap	VERB	_	VerbForm=Conv	0	root	_	_
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 67
+# sent_id = 38
 # file_id = FM15_20150814_3_12_Yuka
-# text = Tsai gilas wenza.
+# text = Thsae gilas wen-za.
 # trans = This is a glass.
 1	Thsae	thsae	PRON	_	Case=Abs|Definite=Def	2	nsubj	_	_
 2	gilas	gilas	NOUN	_	_	0	root	_	_
 3	wenza	wen	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 68
+# sent_id = 39
 # file_id = FM15_20150821_4_12_Catherine_food
-# text = jamba Tashi ŋai ɐmɐ-ɾu d̪opʂa keɾsuŋwej
+# text = Yamba Tashi ngae ama-ro tropshra kher-sang wen.
 # trans = Tomorrow Tashi will cook dinner for my mother.
 1	Yamba	yamba	NOUN	_	_	6	nmod:tmod	_	_
 2	Tashi	Tashi	PROPN	_	Case=Erg	6	nsubj	_	_
@@ -375,9 +375,9 @@
 7	wen	wen	AUX	_	_	6	aux	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 69
+# sent_id = 40
 # file_id = FM15_20150814_4_1_Naomi
-# text = mai hewan-i dong-o nak-sa.
+# text = Mae hewani dong-o nak-sa.
 # trans = The house is in front of the temple.
 1	Mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 2	hewani	hewang	NOUN	_	Case=Gen	3	nmod	_	_
@@ -385,9 +385,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 70
+# sent_id = 41
 # file_id = FM15_20150814_4_1_Naomi
-# text = hewan mai-li kae-ro nak-sa.
+# text = Hewang mae-li kae-ro nak-sa.
 # trans = The temple is behind the house.
 1	Hewang	hewang	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maeli	mae	NOUN	_	Case=Gen	3	nmod	_	_
@@ -395,9 +395,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 71
+# sent_id = 42
 # file_id = FM15_20150814_4_1_Naomi
-# text = brang leng-i tama-rl nak-sa.
+# text = Brang léng-i tamarl nak-sa.
 # trans = The cowsheds are next to the field.
 1	Brang	brang	NOUN	_	Case=Abs	3	nsubj	_	_
 2	léngi	léng	NOUN	_	Case=Gen	3	nmod	_	_
@@ -405,9 +405,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 72
+# sent_id = 43
 # file_id = FM15_20150814_4_1_Naomi
-# text = mai leng-i kae-ro naksa.
+# text = Mae léng-i kae-ro nak-sa.
 # trans = The houses are behind the field.
 1	Mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 2	léngi	léng	NOUN	_	Case=Gen	3	nmod	_	_
@@ -415,9 +415,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 73
+# sent_id = 44
 # file_id = FM15_20150814_4_1_Naomi
-# text = leng brang-i tama-rl nak-sa.
+# text = Leng brang-i tamarl nak-sa.
 # trans = The field is next to the cowsheds.
 1	Leng	leng	NOUN	_	Case=Abs	3	nsubj	_	_
 2	brangi	brang	NOUN	_	Case=Gen	3	nmod	_	_
@@ -425,9 +425,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 74
+# sent_id = 45
 # file_id = FM15_20150814_4_1_Naomi
-# text = leng mai-le tama-rl nak-sa.
+# text = Leng mae-li tamarl nak-sa.
 # trans = The field is next to the house.
 1	Leng	leng	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maeli	mae	NOUN	_	Case=Gen	3	nmod	_	_
@@ -435,9 +435,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 75
+# sent_id = 46
 # file_id = FM15_20150814_4_1_Naomi
-# text = krong ri dong-o nak-sa.
+# text = Krong ri dong-o nak-sa.
 # trans = The village is in front of the mountain.
 1	Krong	krong	NOUN	_	Case=Abs	3	nsubj	_	_
 2	ri	ri	NOUN	_	_	3	nmod	_	_
@@ -445,9 +445,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 76
+# sent_id = 47
 # file_id = FM15_20150814_4_1_Naomi
-# text = krong mai-li dong-o nak-sa.
+# text = Krong mae-li dong-o nak-sa.
 # trans = The village is in front of the house.
 1	Krong	krong	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maeli	mae	NOUN	_	Case=Gen	3	nmod	_	_
@@ -455,9 +455,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 77
+# sent_id = 48
 # file_id = FM15_20150814_4_1_Naomi
-# text = Mai bre dong-o nak-sa.
+# text = Mae bré dong-o nak-sa.
 # trans = The house is in front of the yak.
 1	Mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 2	bré	bré	NOUN	_	_	3	nmod	_	_
@@ -465,9 +465,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 78
+# sent_id = 49
 # file_id = FM15_20150814_4_1_Naomi
-# text = Leng mai-li embi kato nak-sa.
+# text = Leng mae-li embi kato nak-sa.
 # trans = The field is on the left of the house
 1	Leng	leng	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maeli	mae	NOUN	_	Case=Gen	4	_	_
@@ -476,9 +476,9 @@
 5	naksa	na	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 79
+# sent_id = 50
 # file_id = FM15_20150814_4_1_Naomi
-# text = Mai leng-i ebi lokso nak-sa.
+# text = Mae leng-i ebi lokso nak-sa.
 # trans = The house is on the right of the field.
 1	Mae	mae	NOUN	_	Case=Abs	4	nsubj	_	_
 2	lengi	leng	NOUN	_	Case=Gen	4	nmod	_	_
@@ -487,9 +487,9 @@
 5	naksa	na	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 80
+# sent_id = 51
 # file_id = FM15_20150814_4_1_Naomi
-# text = Mai leng-i embi lokso nak-sa.
+# text = Mae leng-i embi lokso nak-sa.
 # trans = The house is on the left of the field.
 1	Mae	mae	NOUN	_	Case=Abs	4	nsubj	_	_
 2	lengi	leng	NOUN	_	Case=Gen	4	nmod	_	_
@@ -498,27 +498,27 @@
 5	naksa	na	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 81
+# sent_id = 52
 # file_id = FM15_20150814_4_1_Naomi
-# text = kwonpai ri dje-rlu-na.
+# text = Kwonpai ri-djeru na.
 # trans = The monastery is on the mountain.
 1	Kwonpai	kwonpai	NOUN	_	Case=Abs	2	nsubj	_	_
 2	ridjeru	ri	NOUN	_	Case=Loc	0	root	_	_
 3	na	na	VERB	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 82
+# sent_id = 53
 # file_id = FM15_20150814_4_1_Naomi
-# text = kwonpai pokte dje-rlu-na.
+# text = Kwonpai pokto-djeru na.
 # trans = The monastery is on the hill.
 1	Kwonpai	kwonpai	NOUN	_	Case=Abs	2	nsubj	_	_
 2	poktodjerlu	pokto	NOUN	_	Case=Loc	0	root	_	_
 3	na	na	VERB	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 83
+# sent_id = 54
 # file_id = FM15_20150814_4_1_Naomi
-# text = Mai krong nang-o nak-sa.
+# text = Mae krong nang-o nak-sa.
 # trans = The house is in the village.
 1	Mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krong	krong	NOUN	_	_	3	nmod	_	_
@@ -526,9 +526,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 84
+# sent_id = 55
 # file_id = FM15_20150814_4_1_Naomi
-# text = Leng krong nang-o nak-sa.
+# text = Léng krong nang-o nak-sa.
 # trans = The field is in the village.
 1	Léng	léng	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krong	krong	NOUN	_	_	3	nmod	_	_
@@ -536,9 +536,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 85
+# sent_id = 56
 # file_id = FM15_20150814_4_1_Naomi
-# text = Hewan krong nang-o nak-sa.
+# text = Hewang krong nang-o nak-sa.
 # trans = The temple is in the village.
 1	Hewang	hewang	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krong	krong	NOUN	_	_	3	nmod	_	_
@@ -546,18 +546,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 86
+# sent_id = 57
 # file_id = FM15_20150814_4_1_Naomi
-# text = Gomtchen kwonpai-ro nak-sa.
+# text = Gomchen kwonpai-ro nak-sa.
 # trans = The monk is in the monastery.
 1	Gomchen	gomchen	NOUN	_	Case=Abs	2	nsubj	_	_
 2	kwonpairo	kwonpai	NOUN	_	Case=Loc	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 87
+# sent_id = 58
 # file_id = FM15_20150814_4_1_Naomi
-# text = Kambu gilas-i ebi lokso nak-sa.
+# text = Khambu gilas-i eb-i lokso nak-sa.
 # trans = The apple is on the right of the glass.
 1	Khambu	khambu	NOUN	_	Case=Abs	4	nsubj	_	_
 2	gilasi	gilas	NOUN	_	Case=Gen	4	nmod	_	_
@@ -566,9 +566,9 @@
 5	naksa	na	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 88
+# sent_id = 59
 # file_id = FM15_20150814_4_1_Naomi
-# text = Gilas kambu-i embi lokso naksa.
+# text = Gilas khambu-i eb-i lokso nak-sa.
 # trans = The cup is on the left of the apple.
 1	Gilas	gilas	NOUN	_	Case=Abs	4	nsubj	_	_
 2	khambui	khambu	NOUN	_	Case=Gen	4	nmod	_	_
@@ -577,7 +577,7 @@
 5	naksa	na	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 89
+# sent_id = 60
 # file_id = FM15_20150814_4_1_Naomi
 # text = Nor brang nang-o nak-sa.
 # trans = The cow is in(side) the cowshed.
@@ -587,18 +587,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 90
+# sent_id = 61
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor mairo nak-sa.
+# text = Nor mae-ro nak-sa.
 # trans = The cow is in (near) the house [not really in the house].
 1	Nor	nor	NOUN	_	Case=Abs	2	nsubj	_	_
 2	maero	mae	NOUN	_	Case=Loc	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 91
+# sent_id = 62
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor leng-nang-o nak-sa.
+# text = Nor léng nang-o nak-sa.
 # trans = The cow is in(side) the field.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	léng	léng	NOUN	_	_	3	nmod	_	_
@@ -606,7 +606,7 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 92
+# sent_id = 63
 # file_id = FM15_20150814_4_1_Naomi
 # text = Nor krong nang-o nak-sa.
 # trans = The cow is in(side) the village.
@@ -616,18 +616,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 93
+# sent_id = 64
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor khron-na nak-sa.
+# text = Nor khrong-na nak-sa.
 # trans = The cow is in the valley.
 1	Nor	nor	NOUN	_	Case=Abs	2	nsubj	_	_
 2	krongna	krong	NOUN	_	Case=Loc	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 94
+# sent_id = 65
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor durlmai nang-o nak-sa.
+# text = Nor durmae nang-o nak-sa.
 # trans = The cow is in(side) the vegetable garden.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	durmae	durmae	NOUN	_	_	3	nmod	_	_
@@ -635,9 +635,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 95
+# sent_id = 66
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor mai-li nang-o nak-sa.
+# text = Nor mae-li nang-o nak-sa.
 # trans = The cow is in(side) the house.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maeli	mae	NOUN	_	Case=Gen	3	nmod	_	_
@@ -645,18 +645,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 96
+# sent_id = 67
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor mai-ro gai.
+# text = Nor mae-ro gae.
 # trans = The cow went to the house.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maero	mae	NOUN	_	Case=Dat	3	obl	_	_
 3	gae	gae	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 97
+# sent_id = 68
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor leng-nang-o gai.
+# text = Nor léng nang-o gae.
 # trans = The cow went (in)to the field.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	léng	léng	NOUN	_	_	3	nmod	_	_
@@ -664,18 +664,18 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 98
+# sent_id = 69
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor khro-na gai.
+# text = Nor khrog-na gae.
 # trans = The cow went to the valley.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krongna	krong	NOUN	_	Case=Dat	3	obl	_	_
 3	gae	gae	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 99
+# sent_id = 70
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor krong-nang-o gai.
+# text = Nor krong nang-o gae.
 # trans = The cow went (in)to the village.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	krong	krong	NOUN	_	_	3	nmod	_	_
@@ -683,9 +683,9 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 100
+# sent_id = 71
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor durlmai nang-o gai.
+# text = Nor durmae nang-o gae.
 # trans = The cow went (in)to the vegetable garden.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	durmae	durmae	NOUN	_	_	3	nmod	_	_
@@ -693,27 +693,27 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 101
+# sent_id = 72
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor mai-ning ra-s.
+# text = Nor mae-ning ra-s.
 # trans = The cow came from the house.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	maening	mae	NOUN	_	Case=Abl	3	obl	_	_
 3	ras	ra	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 102
+# sent_id = 73
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor khro-ning ra-s
+# text = Nor khrog-ning ra-s.
 # trans = The cow came from the valley
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krongning	krong	NOUN	_	Case=Abl	3	obl	_	_
 3	ras	ra	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 103
+# sent_id = 74
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor leng-nang-ning ra-s
+# text = Nor léng nang-ning ra-s.
 # trans = The cow came (out) from the field.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	léng	léng	NOUN	_	_	3	nmod	_	_
@@ -721,9 +721,9 @@
 4	ras	ra	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 104
+# sent_id = 75
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor krong-nang-ning ra-s.
+# text = Nor krong nang-ning ra-s.
 # trans = The cow came (out) from the village.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	krong	krong	NOUN	_	_	3	nmod	_	_
@@ -731,9 +731,9 @@
 4	ras	ra	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 105
+# sent_id = 76
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor brang-nang-ning ra-s.
+# text = Nor brang nang-ning ra-s.
 # trans = The cow came (out) from the cowshed.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	brang	brang	NOUN	_	_	3	nmod	_	_
@@ -741,9 +741,9 @@
 4	ras	ra	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 106
+# sent_id = 77
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor hewan-nang-o gai.
+# text = Nor hewang nang-o gae.
 # trans = The cow went (in)to the temple.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	hewang	hewang	NOUN	_	_	3	nmod	_	_
@@ -751,9 +751,9 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 107
+# sent_id = 78
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor seng-i hado gai.
+# text = Nor seng-i hado gae.
 # trans = The cow went to the tree.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	sengi	seng	NOUN	_	Case=Gen	3	nmod	_	_
@@ -761,27 +761,27 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 108
+# sent_id = 79
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor riru gai.
+# text = Nor ri-ro gae.
 # trans = The cow went to the mountain.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	riro	ri	NOUN	_	Case=Dat	3	obl	_	_
 3	gae	gae	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 109
+# sent_id = 80
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor khwegang-o gai.
+# text = Nor khwégang-o gae.
 # trans = The cow went to the river [but not in].
 1	Nor	nor	NOUN	_	Case=Abs	2	nsubj	_	_
 2	khwégango	khwégang	NOUN	_	Case=Dat	3	obl	_	_
 3	gae	gae	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 110
+# sent_id = 81
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor brag-i lokso gai.
+# text = Nor brag-i lokso gae.
 # trans = The cow went to the (side of the) cliff.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	bragi	brak	NOUN	_	Case=Gen	3	nmod	_	_
@@ -789,9 +789,9 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 110
+# sent_id = 82
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor rinman-nang-o gai.
+# text = Nor rinman nang-o gae.
 # trans = The cow went (in)to/inside the wooden fence.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	rinman	rinmen	NOUN	_	_	3	nmod	_	_
@@ -799,18 +799,18 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 111
+# sent_id = 83
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor ja-ro gai.
+# text = Nor ja-ro gae.
 # trans = The cow went to the mountain pass.
 1	Nor	nor	NOUN	_	Case=Abs	3	nsubj	_	_
 2	jaro	ja	NOUN	_	Case=Dat	3	obl	_	_
 3	gae	gae	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 112
+# sent_id = 84
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor jung-mi-nang-o gai.
+# text = Nor jung-mi nang-o gae.
 # trans = The cow went to the mountain lows.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	jungmi	jung	NOUN	_	Case=Gen	3	nmod	_	_
@@ -818,9 +818,9 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 113
+# sent_id = 85
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor ri tiru gai.
+# text = Nor ri ti-ro gae.
 # trans = The cow went to the mountain peak.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	ri	ri	NOUN	_	_	3	nmod	_	_
@@ -828,18 +828,18 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 114
+# sent_id = 86
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor jam na.
+# text = Nor yam na.
 # trans = The cow is on the road.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	yam	yam	NOUN	_	_	0	root	_	_
 3	na	na	VERB	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 115
+# sent_id = 87
 # file_id = FM15_20150814_4_1_Naomi
-# text = Nor jam-e lokso gai
+# text = Nor yam-e lokso gae.
 # trans = The cow went to the (side of the) road.
 1	Nor	nor	NOUN	_	Case=Abs	4	nsubj	_	_
 2	yame	yam	NOUN	_	Case=Gen	3	nmod	_	_
@@ -847,9 +847,9 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 116
+# sent_id = 88
 # file_id = FM15_20150904_5_1_
-# text = Shinrlei tek busbikidi djankhu wen-za.
+# text = Shingdei thek busbikidi jankhu wen-za.
 # trans = Only one of the fruits is green.
 1	Shingdei	shingdai	NOUN	_	Case=Abs	4	nsubj	_	_
 2	thek	thek	NUM	_	NumType=Card	1	nummod	_	_
@@ -858,18 +858,18 @@
 5	wenza	wen	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 117
+# sent_id = 89
 # file_id = FM15_20150904_5_1_
-# text = Shinrlei tek djankhu.
+# text = Shingdai thek jangku.
 # trans = One of the fruits is green.
 1	Shingdai	shingdai	NOUN	_	Case=Abs	3	nsubj	_	_
 2	thek	thek	NUM	_	NumType=Card	1	nummod	_	_
-3 	jangku	jangku	ADJ	_	Degree=Pos	0	root	_	_
+3 jangku	jangku	ADJ	_	Degree=Pos	0	root	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 118
+# sent_id = 90
 # file_id = FM15_20150904_5_1_
-# text = Catherine tek-be earfon so-na.
+# text = Catherine thekpe earfon so-na.
 # trans = Only Catherine is wearing earphones.
 1	Catherine	Catherine	PRONP	_	Case=Abs	4	nsubj	_	_
 2	thekpe	thekpe	ADV	_	_	4	advmod	_	_
@@ -877,45 +877,45 @@
 4	sona	so	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 119
+# sent_id = 91
 # file_id = FM15_20150904_5_1_
-# text = Mark tewe jang na.
+# text = Mark thekpe yang-na.
 # trans = Only Mark is standing up.
 1	Mark	Mark	PRONP	_	Case=Abs	3	nsubj	_	_
 2	thekpe	thekpe	ADV	_	_	3	advmod	_	_
 3	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 120
+# sent_id = 92
 # file_id = FM15_20150904_5_1_
-# text = mi tek-be jang-na.
+# text = Mi thekpe yang-na.
 # trans = Only 1 person is standing up.
 1	Mi	mi	NOUN	_	Case=Abs	3	nsubj	_	_
 2	thekpe	thekpe	ADV	_	_	3	advmod	_	_
 3	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 121
+# sent_id = 93
 # file_id = FM15_20150904_5_1_
-# text = mi zon-be jang-na.
+# text = Mi zonbe yang-na.
 # trans = Only 2 people are standing up.
 1	Mi	mi	NOUN	_	Case=Abs	3	nsubj	_	_
 2	zonbe	zonbe	ADV	_	_	3	advmod	_	_
 3	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 122
+# sent_id = 94
 # file_id = FM15_20150904_5_1_
-# text = bome gambo-bi jang-na.
+# text = Bome-gambo be yang-na.
 # trans = Only girls are standing.
 1	Bomegambo	bome	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	_
 2	be	be	ADV	_	_	3	advmod	_	_
 3	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 123
+# sent_id = 95
 # file_id = FM15_20150904_5_1_
-# text = osai-na nakan pen djakbala zon ngundi ning shindi wenza.
+# text = Osae-na na-khan pen jikpala zon ngundi-ning shindi wen-za.
 # trans = These two fat pens over here are blue and red.
 1	Osaena	osae	ADV	_	PronType=Dem	2	advmod	_	_
 2	nakhan	na	VERB	_	VerbForm=Inf	3	acl	_	_
@@ -927,9 +927,9 @@
 8	wenza	wen	VERB	_	Aspect=Imp	6	cop	_	_
 9	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 124
+# sent_id = 96
 # file_id = FM15_20150904_5_1_
-# text = Nado pen djakbala zon na
+# text = Nado pen jikpala zon na.
 # trans = I have 2 fat pens.
 1	Nado	nado	PRON	_	Case=Dat	0	root	_	_
 2	pen	pen	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -938,27 +938,27 @@
 5	na	na	VERB	_	_	1	cop	_	_
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 126
+# sent_id = 97
 # file_id = FM15_20150904_5_1_
-# text = nado ashi-de na.
+# text = Nado ashé-de na.
 # trans = I have an older sister.
 1	Nado	nada	PRON	_	Case=Dat	0	root	_	_
 2	ashéde	ashé	NOUN	_	Case=Abs|Definite=Ind	1	nsubj	_	_
 3	na	na	VERB	_	_	1	cop	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 127
+# sent_id = 98
 # file_id = FM15_20150904_5_1_
-# text = nado adju-de na.
+# text = Nado ajo-de na.
 # trans = I have an older brother.
 1	Nado	nada	PRON	_	Case=Dat	0	root	_	_ 
 2	ajode	ajo	NOUN	_	Case=Abs|Definite=Ind	1	nsubj	_	_	
 3	na	na	VERB	_	_	1	cop	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 128
+# sent_id = 99
 # file_id = FM15_20150904_5_1_
-# text = mi tek tsena jang na.
+# text = Mi thek tshena yang-na.
 # trans = One person is standing over here.
 1	Mi	mi	NOUN	_	Case=Abs	4	nsubj	_	_
 2	thek	thek	NUM	_	NumType=Card	1	nummod	_	_
@@ -966,18 +966,18 @@
 4	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 129
+# sent_id = 100
 # file_id = FM15_20150904_5_1_
-# text = mi-di tsena jang na.
+# text = Mi-di tshena yang-na.
 # trans = A person is standing over here.
 1	Midi	mi	NOUN	_	Case=Abs|Definite=Ind	3	nsubj	_	_
 2	tshena	tshena	ADV	_	_	3	advmod	_	_
 3	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 130
+# sent_id = 101
 # file_id = FM15_20150904_5_1_
-# text = mi zon-ma-de tsena jang na.
+# text = Mi zon-ma-de tshena yang-na.
 # trans = Two people are standing over here.
 1	Mi	mi	NOUN	_	Case=Abs	4	nsubj	_	_
 2	zonmade	zon	NUM	_	NumType=Card|Definite=Def	1	nummod	_	_
@@ -985,18 +985,18 @@
 4	yangna	yang	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 131
+# sent_id = 102
 # file_id = FM15_20150904_5_1_
-# text = Nado adju mut.
+# text = Nado ajo mut.
 # trans = I have no older brothers.
 1	Nado	nada	PRON	_	Case=Dat	0	root	_	_
 2	ajo	ajo	NOUN	_	Case=Abs	1	nsubj	_	_
 3	mut	mut	VERB	_	Polarity=Neg	1	cop	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 132
+# sent_id = 103
 # file_id = FM15_20150904_5_1_
-# text = nado adju sum na.
+# text = Nado ajo sum na.
 # trans = I have 3 older brothers.
 1	Nado	nada	PRON	_	Case=Dat	0	root	_	_
 2	ajo	ajo	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1004,9 +1004,9 @@
 4	na	na	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 133
+# sent_id = 104
 # file_id = FM15_20150904_5_1_
-# text = nado adju sum-bi na.
+# text = Nado ajo sum-bi na.
 # trans = I have 3 older brothers. (emphasis/contrast).
 1	Nado	nada	PRON	_	Case=Dat	0	root	_	_ 
 2	ajo	ajo	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1014,27 +1014,27 @@
 4	na	na	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 134
+# sent_id = 105
 # file_id = FM15_20150904_5_1_
-# text = nado kari-di na.
+# text = Nado gari-di na.
 # trans = I have a car.
 1	Nado	nada	PRON	_	Case=Dat	0	root	_	_ 
 2	garidi	gari	NOUN	_	Case=Abs|Definite=Ind	1	nsubj	_	_	
 3	na	na	VERB	_	_	1	cop	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 135
+# sent_id = 106
 # file_id = FM15_20150904_5_1_
-# text = ngai kari na.
+# text = Ngaé gari na.
 # trans = I have a car (e.g. knowing your car is somewhere).
 1	Ngaé	ngaé	PRON	_	Poss=Yes|Number=Sing|Person=1	2	nmod:poss	_	_
 2	gari	gari	NOUN	_	_	0	root	_	_
 3	na	na	VERB	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 136
+# sent_id = 107
 # file_id = FM15_20150904_5_1_
-# text = Bonnie-ru mek tewe na.
+# text = Boni-ro mek thekpe na.
 # trans = Bonnie only has one eye.
 1	Boniro	Boni	PROPN	_	Case=Dat	0	root	_	_
 2	mek	mek	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1042,18 +1042,18 @@
 4	na	na	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 137
+# sent_id = 108
 # file_id = FM15_20150904_5_1_
-# text = Mark jang-zi-na.
+# text = Mark yang-zi na.
 # trans = Only Mark is standing up.
 1	Mark	Mark	PROPN	_	Case=Abs	2	nsubj	_	_
 2	yangzi	yang	VERB	_	VerbForm=Conv	0	root	_	_
 3	na	na	AUX	_	_	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 138
+# sent_id = 109
 # file_id = FM15_20150904_5_1_
-# text = Tom-ru mek zon na.
+# text = Tom-ro mek zon na.
 # trans = Tom has two eyes.
 1	Tomro	Tom	PROPN	_	Case=Dat	0	root	_	_
 2	mek	mek	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1061,9 +1061,9 @@
 4	na	na	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 139
+# sent_id = 110
 # file_id = FM15_20150904_5_1_
-# text = Mi-ru mek zon na.
+# text = Mi-ro mek zon na.
 # trans = People have two eyes.
 1	Miro	mi	NOUN	_	Case=Dat	0	root	_	_
 2	mek	mek	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1071,9 +1071,9 @@
 4	na	na	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 140
+# sent_id = 111
 # file_id = FM15_20150904_5_1_FM15_20150904_5_1_
-# text = Bonnie-ru mek tek na.
+# text = Boni-ro mek thek na.
 # trans = Bonnie has one eye.
 1	Boniro	Boni	PROPN	_	Case=Dat	0	root	_	_
 2	mek	mek	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1081,18 +1081,18 @@
 4	na	na	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 141
+# sent_id = 112
 # file_id = FM15_20150904_5_1_
-# text = Bonnie-ru mek mut-sa.
+# text = Boni-ro mek mut-sa.
 # trans = Bonnie has no eyes.
 1	Boniro	Boni	PROPN	_	Case=Dat	0	root	_	_
 2	mek	mek	NOUN	_	Case=Abs	1	nsubj	_	_
 3	mutsa	tsa	VERB	_	Polarity=Neg	1	cop	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 142
+# sent_id = 113
 # file_id = FM15_20150904_5_1_
-# text = Bonnie-ru mek tek mut-sa.
+# text = Boni-ro mek thek mut-sa.
 # trans = Bonnie doesn't have one eye [but she still has the other].
 1	Boniro	Boni	PROPN	_	Case=Dat	0	root	_	_
 2	mek	mek	NOUN	_	Case=Abs	1	nsubj	_	_
@@ -1100,9 +1100,9 @@
 4	mutsa	tsa	VERB	_	Polarity=Neg	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 144
+# sent_id = 114
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Tshai mai chikpa-la nak-sa.
+# text = Tshae mae jikpala nak-sa.
 # trans = The house IS BIG (I see).
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1110,9 +1110,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 145
+# sent_id = 115
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = ngai mai chikpa-la na.
+# text = Ngaé mae jikpala na.
 # trans = My house IS BIG (I know, but do not see).
 1	Ngaé	ngaé	PRON	_	Poss=Yes|Number=Sing|Person=1	3	nmod:poss	_	_
 2	mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1120,25 +1120,25 @@
 4	na	na	VERB	_	_	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 146
+# sent_id = 116
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Chikpa-rang njis.
+# text = Jikparang nyi-s.
 # trans = (My house) WAS BIG (before it was torn down).
 1	Jikparang	jikpala	ADJ	_	Degree=Pos	0	root	_	_
 2	nyis	nyit	VERB	_	Aspect=Perf	1	cop	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 147
+# sent_id = 117
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = (Tom-i mai) tchikpa nak sa.
+# text = (Tom-i mae) jikpa nak-sa.
 # trans = (Tom's house) IS BIG (I saw).
 1	Jikpa	jikpala	ADJ	_	Degree=Pos	0	root	_	_
 2	naksa	na	VERB	_	Aspect=Imp	1	cop	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 148
+# sent_id = 118
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi nak sa.
+# text = Gon igu di-zi nak-sa.
 # trans = He IS WRITING letters (I see).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1146,9 +1146,9 @@
 4	naksa	na	AUX	_	Aspect=Imp	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 149
+# sent_id = 119
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu-di di gang nak sa.
+# text = Gon igu-di di-gang nak-sa.
 # trans = He IS WRITING a letter (I see).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -1156,9 +1156,9 @@
 4	naksa	na	AUX	_	Aspect=Imp	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 150
+# sent_id = 120
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu-di di gang na na re.
+# text = Gon igu-di di-gang na nare.
 # trans = He WAS WRITING a letter (I know, but did not see).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -1167,9 +1167,9 @@
 5	nare	nare	INTJ	_	_	3	discourse	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 151
+# sent_id = 121
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi njit na.
+# text = Gon igu di-zi nyit-na.
 # trans = He WAS WRITING letters (I saw).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1177,9 +1177,9 @@
 4	nyitna	nyit	AUX	_	Aspect=Perf	3	root	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 152
+# sent_id = 122
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu-di di gang na njit na.
+# text = Gon igu-di di-gang na nyit-na.
 # trans = He WAS WRITING a letter (I saw).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -1188,9 +1188,9 @@
 5	nyitna	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 153
+# sent_id = 123
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di za re.
+# text = Gon igu di-za re.
 # trans = He IS WRITING letters (I know, but did not see).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1198,9 +1198,9 @@
 4	re	re	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 154
+# sent_id = 124
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu-di di za re.
+# text = Gon igu-di di-za re.
 # trans = He IS WRITING a letter (I know, but did not see).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -1208,9 +1208,9 @@
 4	re	re	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 155
+# sent_id = 125
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi njis.
+# text = Gon igu di-zi nyi-s.
 # trans = He [was writing?] letters (I saw).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1218,18 +1218,18 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 156
+# sent_id = 126
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di dis.
+# text = Gon igu-di di-s.
 # trans = He WROTE a letter (I saw).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
 3	dis	di	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 157
+# sent_id = 127
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Goni ngado igu-di di za ra.
+# text = Gon-i ngado igu-di di-za ra.
 # trans = He WILL WRITE (/BE WRITING) a letter to me (I think).
 1	Goni	gon	PRON	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	ngado	ngado	PRON	_	Case=Dat	4	obl	_	_
@@ -1238,9 +1238,9 @@
 5	ra	ra	INTJ	_	_	4	discourse	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 158
+# sent_id = 128
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi na we ra.
+# text = Gon igu di-zi na wera.
 # trans = He WILL BE WRITING letters (I think).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1249,9 +1249,9 @@
 5	wera	wera	INTJ	_	_	3	discourse	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 159
+# sent_id = 129
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi rang ra.
+# text = Gon igu di-zi-rang ra.
 # trans = He WILL BE WRITING a letter (I think).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obl	_	_
@@ -1259,9 +1259,9 @@
 4	ra	ra	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 160
+# sent_id = 130
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi rang njit.
+# text = Gon igu di-zi-rang nyit.
 # trans = He (usually) WRITES letters.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obl	_	_
@@ -1269,9 +1269,9 @@
 4	nyit	nyit	AUX	_	_	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 161
+# sent_id = 131
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu-di di zi rang njit.
+# text = Gon igu-di di-zi-rang nyit.
 # trans = He (usually) WRITES a letter.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -1279,9 +1279,9 @@
 4	nyit	nyit	AUX	_	_	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 162
+# sent_id = 132
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu-di di zi rang njis.
+# text = Gon igu-di di-zi-rang nyi-s.
 # trans = He (usually) WROTE a letter.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -1289,9 +1289,9 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 163
+# sent_id = 133
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi rang njis.
+# text = Gon igu di-zi-rang nyi-s.
 # trans = He (usually) WROTE letters.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1299,27 +1299,27 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 164
+# sent_id = 134
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Ngat igu di sang.
+# text = Ngat igu di-sang.
 # trans = I WILL WRITE letters.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
 3	disang	di	VERB	_	Evident=Nfh	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 165
+# sent_id = 135
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Ngat igu-di di sang.
+# text = Ngat igu-di di-sang.
 # trans = I WILL WRITE a letter.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
 3	disang	di	VERB	_	Evident=Nfh	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 166
+# sent_id = 136
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi na we ra.
+# text = Gon igu di-zi nawe ra.
 # trans = He WILL BE WRITING letters (I think).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1328,9 +1328,9 @@
 5	ra	ra	INTJ	_	_	3	discourse	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 167
+# sent_id = 137
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi ra nyit.
+# text = Gon igu di-zi-rang nyit.
 # trans = He WRITES letters (at his job).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1338,9 +1338,9 @@
 4	nyit	nyit	AUX	_	_	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 168
+# sent_id = 138
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Da ra gon igu di zi na we ra.
+# text = Dara gon igu di-zi nawe ra.
 # trans = Right now, he WRITES letters (at his job).
 1	dara	dara	NOUN	_	_	5	nmod:tmod	_	_
 2	gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	4	nsubj	_	_
@@ -1350,9 +1350,9 @@
 6	ra	ra	INTJ	_	_	4	discourse	_	_
 7	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 169
+# sent_id = 139
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di kan wen.
+# text = Gon igu di-khan wen.
 # trans = He WROTE letters (at a previous job).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	0	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1360,9 +1360,9 @@
 4	wen	wen	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 170
+# sent_id = 140
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di kan wen.
+# text = Gon igu di-khan wen.
 # trans = He WILL WRITE letters. (At a new job).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	0	root	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1370,9 +1370,9 @@
 4	wen	wen	VERB	_	_	1	cop	_	_
 5	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 171
+# sent_id = 141
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu di zi nit mo, ngat domae nango tem zi nis.
+# text = Gon igu di-zi nyit-mo, ngat dumrei nang-o them-zi nyi-s.
 # trans = WHILE he [my brother] WROTE the letter, I WAITED in the garden.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -1386,9 +1386,9 @@
 10	nyis	nyit	AUX	_	Aspect=Perf	9	aux	_	_
 11	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 173
+# sent_id = 142
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Gon igu dre ge bu zi di zi nit na.
+# text = Gon igu dwége buzi di-zi nyit-na.
 # trans = He WROTE / WAS WRITING the letter slowly.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	5	nsubj	_	_
 2	igu	igu	NOUN	_	_	5	obj	_	_
@@ -1398,9 +1398,9 @@
 6	nyitna	nyit	AUX	_	Aspect=Perf	5	root	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 172
+# sent_id = 143
 # file_id = FM15_20150918_7_Tom_Aspect
-# text = Ngut Tom-ro tem zi nis.
+# text = Ngut Tom-ro them-zi nyi-s.
 # trans = I WAITED for Tom.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	Tomro	Tom	PROPN	_	Case=Dat	3	obl	_	_
@@ -1408,17 +1408,17 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 177
+# sent_id = 144
 # file_id = FM15_20150821_7_2_Tom C169
-# text = ne shek-sa.
+# text = Né shik-sa.
 # trans = The sun is rising.
 1	Né	né	NOUN	_	Case=Abs	2	nsubj	_	_
 2	shiksa	shik	VERB	_	Aspect=Imp	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 182
+# sent_id = 145
 # file_id = FM15_20150925_1_ki-ruk-and-evidentiality
-# text = wet pen go-sang ya?
+# text = Wet pen go-sang ya?
 # trans = Will you need a pen?
 # FM15_20150925_1_ki-ruk-and-evidentiality
 1	Wet	wet	PRON	_	Case=Abs|Person=2	3	nsubj	_	_
@@ -1427,45 +1427,45 @@
 4	ya	ya	INTJ	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 183
+# sent_id = 146
 # file_id = FM15_20151002_7
-# text = ngat wang gu-sang.
+# text = Ngat wang ku-sang.
 # trans = I will dig a hole (certain).
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	wang	wang	NOUN	_	_	3	obj	_	_
 3	kusang	ku	VERB	_	Evident=Nfh	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 184
+# sent_id = 147
 # file_id = FM15_20151002_7
-# text = ngat wang gu-za-ra.
+# text = Ngat wang ku-za-rang.
 # trans = I will dig a hole (uncertain)
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	wang	wang	NOUN	_	_	3	obj	_	_
 3	kuzarang	ku	VERB	_	Aspect=Imp|Evident=Nfh	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 185
+# sent_id = 148
 # file_id = FM15_20151002_6
-# text = Khwe noksi-ma nak-sa.
+# text = Khwé noksima nak-sa.
 # trans = The water is cold.
 1	Khwé	khwé	NOUN	_	Case=Abs	2	nsubj	_	_
 2	noksima	noksima	ADJ	_	Degree=Pos	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 186
+# sent_id = 149
 # file_id = FM15_20151002_6
-# text = Khwe nokpa-ra nak-sa.
+# text = Khwé nokpa-ra nak-sa.
 # trans = The water is usually cold.
 1	Khwé	khwé	NOUN	_	Case=Abs	2	nsubj	_	_
 2	nokpara	nokpa	ADJ	_	Degree=Pos	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 187
+# sent_id = 150
 # file_id = FM15_20151002_6
-# text = Dema khwe nokpa njis.
+# text = Dema khwé nokpa nyi-s.
 # trans = Yesterday the water was cold.
 1	Dema	dema	NOUN	_	_	3	nmod:tmod	_	_
 2	khwé	khwé	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1473,27 +1473,27 @@
 4	nyis	nyit	VERB	_	Aspect=Perf	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 188
+# sent_id = 151
 # file_id = FM15_20151002_6
-# text = Khwe nokpa wen.
+# text = Khwé nokpa wen.
 # trans = The water was cold (many years ago)
 1	Khwé	khwé	NOUN	_	Case=Abs	2	nsubj	_	_
 2	nokpa	nokpa	ADJ	_	Degree=Pos	0	root	_	_
 3	wen	wen	VERB	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 192
+# sent_id = 152
 # file_id = FM15_20151002_6
-# text = Khwe nokpa nak-sa.
+# text = Khwé nokpa nak-sa.
 # trans = The water is cold.
 1	Khwé	khwé	NOUN	_	Case=Abs	2	nsubj	_	_
 2	nokpa	nokpa	ADJ	_	Degree=Pos	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 193
+# sent_id = 153
 # file_id = FM15_20151002_6
-# text = Tshai khwe nokpa wen-za.
+# text = Tshae khwé nokpa wen-za.
 # trans = That is cold water.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	khwé	khwé	NOUN	_	Case=Abs	0	root	_	_
@@ -1501,9 +1501,9 @@
 4	wenza	wen	VERB	_	Aspect=Imp	2	cop	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 194
+# sent_id = 154
 # file_id = FM15_20151002_6
-# text = Ngat khwe nokpa thong-za.
+# text = Ngat khwé nokpa thong-za.
 # trans = I am drinking cold water.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	4	nsubj	_	_
 2	khwé	khwé	NOUN	_	_	4	obj	_	_
@@ -1511,18 +1511,18 @@
 4	thongza	thong	VERB	_	Aspect=Imp	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 195
+# sent_id = 155
 # file_id = FM15_20151002_6
-# text = Khwe nokpa nak-sa.
+# text = Khwé nokpa nak-sa.
 # trans = The water is cold.
 1	Khwé	khwé	NOUN	_	Case=Abs	2	nsubj	_	_
 2	nokpa	nokpa	ADJ	_	Degree=Pos	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 196
+# sent_id = 156
 # file_id = FM15_20151002_6
-# text = Yamba khwe nokpa-ra ra.
+# text = Yamba khwé nokpa-ra ra.
 # trans = Tomorrow, the water will be cold.
 1	Yamba	yamba	NOUN	_	_	3	nmod:tmod	_	_
 2	khwé	khwé	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1530,27 +1530,27 @@
 4	ra	ra	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 197
+# sent_id = 157
 # file_id = FM15_20151002_6
-# text = Ngat goning dom.
+# text = Ngat go-ning dom.
 # trans = I have met him.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	goning	gon	PRON	_	Number=Sing|Person=3|Case=Com	3	obj	_	_
 3	dom	dom	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 198
+# sent_id = 158
 # file_id = FM15_20151002_6
-# text = Darowe' goning dom.
+# text = Darawe go-ning dom.
 # trans = I just met him.
 1	Darawe	dara	NOUN	_	_	3	nmod:tmod	_	_
 2	goning	go	PRON	_	Number=Sing|Person=3|Case=Com	3	obj	_	_
 3	dom	dom	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 199
+# sent_id = 159
 # file_id = FM15_20151002_6
-# text = Naro goning rap-te' dom.
+# text = Naro go-ning rap thek dom.
 # trans = I met him several years ago.
 1	Naro	naro	NOUN	_	_	5	nmod:tmod	_	_	
 2	goning	gon	PRON	_	Number=Sing|Person=3|Case=Com	5	obj	_	_
@@ -1559,9 +1559,9 @@
 5	dom	dom	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 200
+# sent_id = 160
 # file_id = FM15_20151002_6
-# text = Ngat goning barbarto-ra dom.
+# text = Ngat go-ning barbartora dom.
 # trans = I meet him often.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	4	nsubj	_	_
 2	goning	gon	PRON	_	Number=Sing|Person=3|Case=Com	4	obj	_	_
@@ -1569,9 +1569,9 @@
 4	dom	dom	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 201
+# sent_id = 161
 # file_id = FM15_20151002_6
-# text = Ngat goning dom-ra ma-dom.
+# text = Ngat go-ning dom-ra ma-dom.
 # trans = I have not met him (in my life).
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	4	nsubj	_	_
 2	goning	gon	PRON	_	Number=Sing|Person=3|Case=Com	4	obj	_	_
@@ -1579,9 +1579,9 @@
 4	madom	dom	VERB	_	Polarity=Neg	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 202
+# sent_id = 162
 # file_id = FM15_20151002_6
-# text = Wet ngae ajuning dom-ba?
+# text = Wet ngae ajo-ning dom-ba?
 # trans = Have you met him (my brother / my father)?
 1	Wet	wet	PRON	_	Case=Abs|Person=2	4	nsubj	_	_
 2	ngae	ngae	PRON	_	Poss=Yes|Number=Sing|Person=1	3	nmod:poss	_	_
@@ -1589,9 +1589,9 @@
 4	domba	dom	VERB	_	_	0	root	_	_
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 202
+# sent_id = 163
 # file_id = FM15_20151002_6
-# text = Wet ngae ajuning dom-ba?
+# text = Wet ngae ajo-ning dom-ba?
 # trans = Have you met him (my brother / my father)?
 1	Wet	wet	PRON	_	Case=Abs|Person=2	4	nsubj	_	_
 2	ngae	ngae	PRON	_	Poss=Yes|Number=Sing|Person=1	3	nmod:poss	_	_
@@ -1599,9 +1599,9 @@
 4	domba	dom	VERB	_	_	0	root	_	_
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 203
+# sent_id = 164
 # file_id = FM15_20151002_6
-# text = Ngat naro goning dom.
+# text = Ngat naro go-ning dom.
 # trans = I met him (once).
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	4	nsubj	_	_
 2	naro	naro	ADV	_	_	4	advmod	_	_	
@@ -1609,16 +1609,16 @@
 4	dom	dom	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 206
+# sent_id = 165
 # file_id = FM15_20151002_6
-# text = Dema dom-do ma-tshu.
+# text = Dema dom-do ma-tsu.
 # trans = Yesterday I [could?] not meet him.
 1	Dema	dema	NOUN	_	_	2	nmod:tmod	_	_
 2	domdo	dom	VERB	_	VerbForm=Inf	0	root	_	_
 3	matsu	tsuk	AUX	_	Polarity=Neg	2	aux	_	_	
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 207
+# sent_id = 166
 # file_id = FM15_20151002_6
 # text = Dema dom-do ma-nyam.
 # trans = Yesterday, I (intentionally) did not meet him.
@@ -1627,9 +1627,9 @@
 3	manyam	nyam	AUX	_	Polarity=Neg	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 210
+# sent_id = 167
 # file_id = FM15_20151009_8
-# text = Mebran na-ning gon rap-te^-ra dom.
+# text = Me-bran na-ning gon rap thek-ra dom.
 # trans = I never met him.
 1	Mebran	bran	VERB	_	Polarity=Neg	0	root	_	_
 2	naning	ngai	PRON	_	Number=Sing|Person=1|Case=Com	6	obj	_	_
@@ -1639,9 +1639,9 @@
 6	dom	dom	VERB	_	_	1	xcomp	_	_
 7	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 212
+# sent_id = 168
 # file_id = FM15_20151009_8
-# text = Goning ngat naro rap-te^-ra ma-dom, Tsho khrok-si-wi rap-te^ dom-ba.
+# text = Go-ning ngat naro rap thek-ra ma-dom, tshena khrok-si-wi rap thek dom-ba.
 # trans = I did not meet him. I met him after I came here.
 1	Goning	gon	PRON	_	Number=Sing|Person=3|Case=Com	6	obj	_	_
 2	ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	6	nsubj	_	_
@@ -1651,7 +1651,7 @@
 6	madom	dom	VERB	_	_	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 212-2
+# sent_id = 169
 1	tshena	tshena	ADV	_	PronType=Dem	2	advmod	_	_	
 2	khroksiwi	khrok	VERB	_	VerbForm=Conv	5	advcl	_	_
 3	rap	rapte	NOUN	_	_	5	nmod:tmod	_	_
@@ -1659,9 +1659,9 @@
 4	domba	dom	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 213
+# sent_id = 170
 # file_id = FM15_20151009_8
-# text = Goni osai pesha lo.
+# text = Gon-i osae pecha lo.
 # trans = He read this book.
 1	Goni	gon	PRON	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	osae	osae	DET	_	Definite=Def	3	det	_	_
@@ -1669,9 +1669,9 @@
 4	lo	lok	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 214
+# sent_id = 171
 # file_id = FM15_20151009_8
-# text = Tshai Naomi[-e^] pesha luf.
+# text = Tshae Naom-i pecha lu-f.
 # trans = I have read Naomi's book.
 1	Tshae	tshae	DET	_	Definite=Def	3	det	_	_
 2	Naomi	Naomi	PROPN	_	Case=Gen	3	nmod:poss	_	_
@@ -1679,9 +1679,9 @@
 4	lof	lok	VERB	_	_	0	root	_	_
 5 	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 215
+# sent_id = 172
 # file_id = FM15_20151009_8
-# text = Goni tshai pesha-gang dam-sang luf.
+# text = Gon-i tshae pecha-gang dangsangga lu-f.
 # trans = He read all of this book.
 1	Goni	gon	PRON	_	Case=Erg|Number=Sing|Person=3	5	nsubj	_	_
 2	tshae	tshae	DET	_	Definite=Def	3	det	_	_
@@ -1690,9 +1690,9 @@
 5	lof	lok	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 216
+# sent_id = 173
 # file_id = FM15_20151009_8
-# text = Goni tshai pesha lu.
+# text = Gon-i tshae pecha lu.
 # trans = He read this book.
 1	Goni	gon	PRON	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	tshae	tshae	DET	_	Definite=Def	3	det	_	_
@@ -1700,42 +1700,42 @@
 4	lo	lok	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 217
+# sent_id = 174
 # file_id = FM15_20151009_8
-# text = Mut gon ses.
+# text = Mut gon se-s.
 # trans = He is dead / he is not alive.
 1	Mut	ma	ADV	_	Polarity=Neg	3	advmod	_	_
 2	gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 3	ses	se	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 218
+# sent_id = 175
 # file_id = FM15_20151009_8
-# text = Mut gon shrak su-mo.
+# text = Mut gon shrak-su-mo.
 # trans = He is dead (honorific).
 1	Mut	ma	ADV	_	Polarity=Neg	3	advmod	_	_
 2	gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 3	shraksumo	shrak	VERB	_	VerbForm=Inf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 219
+# sent_id = 176
 # file_id = FM15_20151009_8
-# text = Shap thong zo-mo.
+# text = Shap thong-zu-mo.
 # trans = The king has been killed.
 1	Shap	shap	NOUN	_	Case=Abs	2	nsubj	_	_	
 2	thongzumo	thong	VERB	_	VerbForm=Inf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 220
+# sent_id = 177
 # file_id = FM15_20151009_8
-# text = Yuka sut-su-mo-re^.
+# text = Yuka sut-su-mo re.
 # trans = Yuka has been killed (I am told, but not see)
 1	Yuka	Yuka	PROPN	_	Case=Abs	2	nsubj	_	_
 2	sutsumo	se	VERB	_	VerbForm=Inf	0	root	_	_
 3	re	re	INTJ	_	_	2	discourse	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 221
+# sent_id = 178
 # file_id = FM15_20151009_8
 # text = Yuka sut-su-mo.
 # trans = Yuka was killed.
@@ -1743,9 +1743,9 @@
 2	sutsumo	se	VERB	_	VerbForm=Inf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 222
+# sent_id = 179
 # file_id = FM15_20151009_8
-# text = Mut gon se-zu-mo-re.
+# text = Mut gon se-zu-mo re.
 # trans = She is dead / she is not alive.
 1	Mut	ma	ADV	_	Polarity=Neg	3	advmod	_	_
 2	gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
@@ -1753,24 +1753,24 @@
 4	re	re	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 223
+# sent_id = 180
 # file_id = FM15_20151009_8
-# text = Wen-za gon wu-duk-su-mo.
+# text = Wen-za gon wuduk-su-mo.
 # trans = She is tired.
 1	Wenza	wen	AUX	_	Aspect=Imp	3	aux	_	_
 2	gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 3	wuduksumo	wuduk	VERB	_	VerbForm=Inf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 224
+# sent_id = 181
 # file_id = FM15_20151009_8
-# text = Bonnie wuduk-su-mo.
+# text = Boni wuduk-su-mo.
 # trans = Bonnie is tired.
 1	Boni	Boni	PROPN	_	Case=Abs	2	nsubj	_	_
 2	wuduksumo	wuduk	ADJ	_	VerbForm=Inf	0	root	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 225
+# sent_id = 182
 # file_id = FM15_20151009_8
 # text = Yoi ra-na.
 # trans = It rained.
@@ -1778,27 +1778,27 @@
 2	rana	ra	VERB	_	Aspect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 227
+# sent_id = 183
 # file_id = FM15_20151009_4
-# text = mae jikpa-la min-za.
+# text = Mae jikpala min-za.
 # trans = the house is not big.
 1	Mae	mae	NOUN	_	Case=Abs	2	nsubj	_	_
 2	jikpala	jikpala	ADJ	_	Degree=Pos	0	root	_	_
 3	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 228
+# sent_id = 184
 # file_id = FM15_20151009_4
-# text = mae jikpa-rang mut-sa.
+# text = Mae jikpa-rang mut-sa.
 # trans = the house is not big.
 1	Mae	mae	NOUN	_	Case=Abs	2	nsubj	_	_
 2	jikparang	jikpala	ADJ	_	Degree=Pos	0	root	_	_
 3	mutsa	tsa	VERB	_	Polarity=Neg	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 229
+# sent_id = 185
 # file_id = FM15_20151009_4
-# text = tshae krong mae jikpa-la mut-sa.
+# text = Tshae krong mae jikpala mut-sa.
 # trans = the village has no big houses.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	krong	krong	NOUN	_	Case=Loc	0	root	_	_
@@ -1807,9 +1807,9 @@
 5	mutsa	tsa	VERB	_	Polarity=Neg	2	cop	_	_
 6	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 231
+# sent_id = 186
 # file_id = FM15_20151009_4
-# text = Tom-e mae namisami jikpa-rang mut-sa.
+# text = Tom-e mae namésamé jikpa-rang mut-sa.
 # trans = Tom's house is not very big.
 1	Tome	Tom	PROPN	_	Case=Gen	2	nmod:poss	_	_
 2	mae	mae	NOUN	_	Case=Abs	4	nsubj	_	_
@@ -1818,9 +1818,9 @@
 5	mutsa	tsa	VERB	_	Polarity=Neg	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 230
+# sent_id = 187
 # file_id = FM15_20151009_4
-# text = Tom-e mae jikpa-la min-za.
+# text = Tom-e mae jikpala min-za.
 # trans = Tom's house is not big.
 1	Tome	Tom	PROPN	_	Case=Gen	2	nmod	_	_
 2	mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1828,9 +1828,9 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 232
+# sent_id = 188
 # file_id = FM15_20151009_4
-# text = tshae mae chetpo-la-rang min-za.
+# text = Tshae mae chetpola-rang min-za.
 # trans = this house is not the biggest.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1838,9 +1838,9 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 233
+# sent_id = 189
 # file_id = FM15_20151009_4
-# text = tshae mae jikpa-la-rang min-za.
+# text = Tshae mae jikpala-rang min-za.
 # trans = this house is not too big.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1848,19 +1848,19 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 234
+# sent_id = 190
 # file_id = FM15_20151009_4
-# text = tshae mae rang chetpo wen.
+# text = Tshae mae-rang chetpo wen.
 # trans = this house is the biggest.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	maerang	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 3	chetpo	chetpo	ADJ	_	Degree=Pos	0	root	_	_	
-4 	wen	wen	VERB	_	_	3	cop	_	_
+4 wen	wen	VERB	_	_ 3 cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 235
+# sent_id = 191
 # file_id = FM15_20151009_4
-# text = tshae mae chetpo-la-rang wen.
+# text = Tshae mae chetpo-la-rang wen.
 # trans = this house is the biggest.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -1868,9 +1868,9 @@
 4	wen	wen	VERB	_	_	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_
 
-# sent_id = 236
+# sent_id = 192
 # file_id = FM15_20151009_4
-# text = chetpo-rang tshae mae wen.
+# text = Chetpo-rang tshae mae wen.
 # trans = this is the biggest house.
 1	Chetporang	chetopo	ADJ	_	Degree=Pos	3	amod	_	_
 2	tshae	tshae	DET	_	Definite=Def	3	det	_	_
@@ -1878,9 +1878,9 @@
 4	wen	wen	VERB	_	_	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 237
+# sent_id = 193
 # file_id = FM15_20151009_4
-# text = chetpo-la-rang tshae mae min.
+# text = Chetpo-la-rang tshae mae min.
 # trans = this is not the biggest house.
 1	Chetpolarang	chetopo	ADJ	_	Degree=Pos	3	amod	_	_
 2	tshae	tshae	DET	_	Definite=Def	3	det	_	_
@@ -1888,18 +1888,18 @@
 4	min	min	VERB	_	Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 238
+# sent_id = 194
 # file_id = FM15_20151009_4
-# text = yam betkwiwa kherrlae.
+# text = Tam betcaela kherlae.
 # trans = make the road wider.
 1	Yam	yam	NOUN	_	_	3	obj	_	_
 2	betcaela	betcaela	ADV	_	_	3	advmod	_	_
 3	kherlae	kher	VERB	_	Mood=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 239
+# sent_id = 195
 # file_id = FM15_20151009_4
-# text = ngai seng shugu mi tsuk.
+# text = Ngai seng shu-gu mi-tsuk.
 # trans = I can't cut wood (in some unknown wood cutting manner).
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
 2	seng	seng	NOUN	_	_	3	obj	_	_
@@ -1907,9 +1907,9 @@
 4	mitsuk	tsuk	AUX	_	Polarity=Neg	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 240
+# sent_id = 196
 # file_id = FM15_20151009_4
-# text = ngai seng shugu me kan.
+# text = Ngai seng shu-gu me-khan.
 # trans = I don't know how to cut wood.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	4	nsubj	_	_
 2	seng	seng	NOUN	_	_	3	obj	_	_
@@ -1917,9 +1917,9 @@
 4	mekhan	khan	VERB	_	Polarity=Neg	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 241
+# sent_id = 197
 # file_id = FM15_20151009_4
-# text = ngai seng shugu kan.
+# text = Ngai seng shu-gu khan.
 # trans = I know how to cut wood.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	4	nsubj	_	_
 2	seng	seng	NOUN	_	_	3	obj	_	_
@@ -1927,9 +1927,9 @@
 4	khan	khan	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 242
+# sent_id = 198
 # file_id = FM15_20151009_4
-# text = ngai zhego kherrto me kan.
+# text = Ngai zhego kher-to me-khan.
 # trans = I don't know how to cook.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	4	nsubj	_	_
 2	zhego	zhego	NOUN	_	_	3	obj	_	_
@@ -1937,18 +1937,18 @@
 4	mekhan	khan	VERB	_	Polarity=Neg	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 243
+# sent_id = 199
 # file_id = FM15_20151009_4
-# text = ngai  karchong-o me kan.
+# text = Ngai  garcong-o me-khan.
 # trans = I don't know how to run.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
 2	garcongo	garcong	VERB	_	VerbForm=Inf	3	xcomp	_	_
 3	mekhan	khan	VERB	_	Polarity=Neg	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 244
+# sent_id = 200
 # file_id = FM15_20151009_4
-# text = mae jikpa-la bet namisami mut-sa.
+# text = Mae jikpala bet namésamé mut-sa.
 # trans = the big house is not wide.
 1	Mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 2	jikpala	jikpala	ADJ	_	Degree=Pos	1	amod	_	_
@@ -1957,9 +1957,9 @@
 5	mutsa	tsa	VERB	_	Polarity=Neg	3	cop	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 245
+# sent_id = 201
 # file_id = FM15_20151009_4
-# text = mae jikpa-la bet-ce-la min-za.
+# text = Mae jikpala betcaela min-za.
 # trans = the big house is not wide.
 1	Mae	mae	NOUN	_	Case=Abs	3	nsubj	_	_
 2	jikpala	jikpala	ADJ	_	Degree=Pos	1	amod	_	_
@@ -1967,9 +1967,9 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 249
+# sent_id = 202
 # file_id = FM15_20151009_4
-# text = yak nyam nak-sa tsimdogo po mut-sa.
+# text = Yak nyam nak-sa tshimdogo po mut-sa.
 # trans = the yak is fat but not hairy.
 1	Yak	yak	NOUN	_	Case=Abs	2	nsubj	_	_
 2	nyam	nyam	ADJ	_	Degree=Pos	0	root	_	_
@@ -1979,9 +1979,9 @@
 6	mutsa	tsa	VERB	_	Polarity=Neg	5	cop	_	_
 7	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 250
+# sent_id = 203
 # file_id = FM15_20151009_4
-# text = yak po zingzing naksa tsimdogo nyam mutsa.
+# text = Yak po zingzing nak-sa tshimdogo nyam mut-sa.
 # trans = the yak is hairy but not fat (presumably).
 1	Yak	yak	NOUN	_	_	3	dislocated	_	_
 2	po	po	NOUN	_	Case=Abs	3	obj	_	_
@@ -1992,9 +1992,9 @@
 7	mutsa	tsa	VERB	_	Polarity=Neg	6	cop	_	_
 8	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 251
+# sent_id = 204
 # file_id = FM15_20151009_4
-# text = yak po-yang mut-sa bunani myangmyang mut-sa.
+# text = Yak po yang mut-sa bunani myangmyang mut-sa.
 # trans = the yak is not hairy nor fat.
 1	Yak	yak	NOUN	_	_	3	dislocated	_	_
 2	po	po	NOUN	_	Case=Abs	3	obj	_	_
@@ -2005,9 +2005,9 @@
 8	mutsa	tas	VERB	_	Polarity=Neg	7	cop	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 252
+# sent_id = 205
 # file_id = FM15_20151009_4
-# text = yak po zingzing yang naksa bunani nyam naksa.
+# text = Yak po zingzing yang nak-sa bunani nyam nak-sa.
 # trans = the yak is also hairy and fat.
 1	Yak	yak	NOUN	_	_	4	dislocated	_	_
 2	po	po	NOUN	_	Case=Abs	4	obj	_	_
@@ -2019,9 +2019,9 @@
 8	naksa	na	VERB	_	Aspect=Imp	7	cop	_	_
 9	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 253
+# sent_id = 206
 # file_id = FM15_20151009_4
-# text = tshae tshali shindi min-za.
+# text = Tshae tshali shindi min-za.
 # trans = the mandarin is not red (can see).
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	tshali	tshali	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -2029,9 +2029,9 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 254
+# sent_id = 207
 # file_id = FM15_20151009_4
-# text = tshae tshali shindi mut-sa.
+# text = Tshae tshali shindi mut-sa.
 # trans = the red mandarin is not there.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	tshali	tshali	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -2039,9 +2039,9 @@
 4	mutsa	tsa	VERB	_	Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 255
+# sent_id = 208
 # file_id = FM15_20151009_4
-# text = tshae tshali shindi-la mut-sa.
+# text = Tshae tshali shindi mut-sa.
 # trans = the red mandarin is not there.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	tshali	tshali	NOUN	_	_	3	nsubj	_	_
@@ -2049,27 +2049,27 @@
 4	mutsa	tsa	COP	_	Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 256
+# sent_id = 209
 # file_id = FM15_20151009_4
-# text = tshali shindi mi-ra.
+# text = Tshali shindi mi-ra.
 # trans = the mandarin is not red, there will be no red mandarin (but it could be orange instead).
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	shindi	shindi	ADJ	_	Degree=Pos	0	root	_	_
 3	mira	ra	VERB	_	Polarity=Neg	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 257
+# sent_id = 210
 # file_id = FM15_20151009_4
-# text = tshali shindi mut.
+# text = Tshali shindi mut.
 # trans = there is no red mandarin (I think that red mandarin’s don’t exist, normally they’re orange).
 1	Tshali	tshali	NOUN	_	Case=Abs	2	nsubj	_	_
 2	shindi	shindi	ADJ	_	Degree=Pos	0	root	_	_
 3	mut	mut	VERB	_	Polarity=Neg	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 258
+# sent_id = 211
 # file_id = FM15_20151009_4
-# text = tshae pen nyonde min-za.
+# text = Tshae pen nyondé min-za.
 # trans = this pen is not black (can see)
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	pen	pen	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -2077,9 +2077,9 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 259
+# sent_id = 212
 # file_id = FM15_20151009_4
-# text = tshae pen nyonde-la min-za.
+# text = Tshae pen nyondé-la min-za.
 # trans = this pen is not black (can see)
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	pen	pen	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -2087,18 +2087,18 @@
 4	minza	min	VERB	_	Aspect=Imp|Polarity=Neg	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 260
+# sent_id = 213
 # file_id = FM15_20151009_4
-# text = pen nyonde mi-ra.
+# text = Pen nyondé mi-ra.
 # trans = there is no black pens (ever, in the world), there is no such thing as a black pen.
 1	Pen	pen	NOUN	_	Case=Abs	2	nsubj	_	_
 2	nyondé	nyondé	ADJ	_	_	0	root	_	_
 3	mira	ra	VERB	_	Polarity=Neg	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 261
+# sent_id = 214
 # file_id = FM15_20151009_4
-# text = tshae pen shindi mi-li-ra.
+# text = Tshae pen shindi mili ra.
 # trans = the pen is not red (can't see), the pen might not be red.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	pen	pen	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -2107,44 +2107,44 @@
 5	ra	ra	INTJ	_	_	3	discourse	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 262
+# sent_id = 215
 # file_id = FM15_20151009_4
-# text = gae-bi-ra.
+# text = Gae bira.
 # trans = might have gone.
 1	Gae	gae	VERB	_	_	0	root	_	_
 2	bira	bira	AUX	_	_	1	aux	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 263
+# sent_id = 216
 # file_id = FM15_20151009_4
-# text = mi tsuguri ra-s.
+# text = Mi tsuguri ra-s.
 # trans = only a few people came.
 1	Mi	mi	NOUN	_	Case=Abs	3	nsubj	_	_
 2	tsuguri	tsuguri	DET	_	_	1	det	_	_
 3	ras	ra	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 264
+# sent_id = 217
 # file_id = FM15_20151009_4
-# text = mi hachi ma ra-s.
+# text = Mi hachi ma-ra-s.
 # trans = not so many people came.
 1	Mi	mi	NOUN	_	Case=Abs	3	nsubj	_	_
 2	hachi	hachi	DET	_	_	1	det	_	_
 3	maras	ra	VERB	_	Polarity=Neg|Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 265
+# sent_id = 218
 # file_id = FM15_20151009_4
-# text = ai-yang ma ra-s.
+# text = Ae-yang ma-ra-s.
 # trans = noone came.
 1	Ae	ai	PRON	_	Case=Erg|PronType=Int	3	nsubj	_	_
 2	yang	yang	ADV	_	_	3	advmod	_	_
 3	maras	ra	VERB	_	Polarity=Neg|Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 266
+# sent_id = 219
 # file_id = FM15_20151009_4
-# text = tshali aji-yang ma zu-za.
+# text = Tshali aji yang ma-zu-za.
 # trans = noone ate the mandarin.
 1	Tshali	tshali	NOUN	_	_	4	obj	_	_
 2	aji	aji	PRON	_	Case=Erg|PronType=Int	4	nsubj	_	_
@@ -2152,15 +2152,15 @@
 4	mazuza	zu	VERB	_	Polarity=Neg|Aspect=Imp	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 267
+# sent_id = 220
 # file_id = FM15_20151009_4
-# text = aji zu-s bi-ge.
+# text = Aji zu-s-bi-ge.
 # trans = who ate the mandarin? (who ate it?)
 1	Aji	aji	PRON	_	Case=Erg|PronType=Int	2	nsubj	_	_	
 2	zusbige	zu	VERB	_	Aspect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 268
+# sent_id = 221
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Lekden-i igu-di di-na.
 # trans = Lekden wrote a letter.
@@ -2169,7 +2169,7 @@
 3	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 269
+# sent_id = 222
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Lekden-i chagi igu di-na.
 # trans = Lekden wrote his book.
@@ -2179,9 +2179,9 @@
 4	dina	di	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 270
+# sent_id = 223
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden-i igu-di di-na, tsim dogo dangsanga di-zi ma-zat-sa.
+# text = Lekden-i igu-di di-na, tsimdogo dangsanga di-zi ma-zat-sa.
 # trans = Lekden wrote a letter, but did not finish writing it.
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	3	nsubj	_	_
 2	igudi	igu	NOUN	_	Definite=Ind	3	obj	_	_
@@ -2193,7 +2193,7 @@
 8	mazatsa	za	AUX	_	Polarity=Neg|Aspect=Imp	7	aux	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 271
+# sent_id = 224
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Lekden-i igu-di di-zi zat-su-mo.
 # trans = Lekden wrote and finished a letter.
@@ -2203,7 +2203,7 @@
 4	zatsumo	tsomo	AUX	_	VerbForm=Inf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 272
+# sent_id = 225
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Lekden igu di-sang-rang bu-na.
 # trans = Lekden almost wrote a letter (/was almost about to write a letter).
@@ -2213,27 +2213,27 @@
 4	buna	bu	VERB	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 273
+# sent_id = 226
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Tom ra-sang-re^.
+# text = Tom ra-sang re.
 # trans = Tom is going to come.
 1	Tom	Tom	PROPN	_	Case=Abs	2	nsubj	_	_
 2	rasang	ra	VERB	_	Evident=Nfh	0	root	_	_
 3	re	re	INTJ	_	_	2	discourse	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 274
+# sent_id = 227
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Tom thek-pe^ ra-sang.
+# text = Tom thekpe ra-sang.
 # trans = Only Tom is going to come.
 1	Tom	Tom	PROPN	_	Case=Abs	3	nsubj	_	_
 2	thekpe	thekpe	ADV	_	_	3	advmod	_	_
 3	rasang	ra	VERB	_	Evident=Nfh	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 275
+# sent_id = 228
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Tom yang ra-sang-re^.
+# text = Tom yang ra-sang re.
 # trans = Even Tom is going to come.
 1	Tom	Tom	PROPN	_	Case=Abs	3	nsubj	_	_
 2	yang	yang	ADV	_	_	3	advmod	_	_
@@ -2241,9 +2241,9 @@
 4	re	re	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 276
+# sent_id = 229
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden igu di-gang-na shra-bus bam, jukdu-ru ma-tsuk-sa.
+# text = Lekden igu di-gang na zhra bus bam, juk-du-ru ma-tsuk-sa.
 # trans = Lekden almost wrote a letter, but did not finish it (/Lekden was on the verge of finishing a letter, but could not finish it.
 1	Lekden	Lekden	PROPN	_	Case=Abs	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
@@ -2257,7 +2257,7 @@
 10	matsuksa	tsuk	AUX	_	_	9	aux	_	_
 11	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 277
+# sent_id = 230
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Lekden ju-na.
 # trans = Lekden ran.
@@ -2265,18 +2265,18 @@
 2	juna	juk	VERB	_	Aspect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 278
+# sent_id = 231
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden juk-sang-re^.
+# text = Lekden juk-sang re.
 # trans = Lekden will run.
 1	Lekden	Lekden	PROPN	_	Case=Abs	2	nsubj	_	_
 2	juksang	juk	VERB	_	Evident=Nfh	0	root	_	_
 3	re	re	INTJ	_	_	2	discourse	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 279
+# sent_id = 232
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden garcong khan denduru-na dena.
+# text = Lekden garcong-khan dendur-na de-na.
 # trans = Lekden ran in a race.
 1	Lekden	Lekden	PROPN	_	Case=Abs	4	nsubj	_	_
 2	garcongkhan	garcong	VERB	_	VerbForm=Inf	3	acl	_	_
@@ -2284,9 +2284,9 @@
 4	dena	de	VERB	_	Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 280
+# sent_id = 233
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden dendru-na jae-na-re^.
+# text = Lekden dendur-na jae-na re.
 # trans = Lekden won the race (I am told).
 1	Lekden	Lekden	PROPN	_	Case=Abs	3	nsubj	_	_
 2	dendurna	dendur	NOUN	_	_	3	obj	_	_
@@ -2294,18 +2294,18 @@
 4	re	re	INTJ	_	_	3	discourse	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 281
+# sent_id = 234
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden(-i?) dendru-na jae.
+# text = Lekden-i dendur-na jae.
 # trans = Lekden won the race. (I saw)
 1	Lekdeni	Lekden	PROPN	_	Case=Erg	3	nsubj	_	_
 2	dendurna	dendur	NOUN	_	Case=Dat	3	obj	_	_
 3	jae	jae	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 282
+# sent_id = 235
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden dendru-na jae-sang-rang bu-s.
+# text = Lekden dendur-na jae-sang-rang bu-s.
 # trans = Lekden almost won the race.
 1	Lekden	Lekden	PROPN	_	Case=Abs	3	nsubj	_	_
 2	dendurna	dendur	NOUN	_	Case=Dat	3	obj	_	_
@@ -2313,9 +2313,9 @@
 4	bus	bus	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 283
+# sent_id = 236
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Lekden iskul nango gai-na, tsin dogo gon iskul nango khrago ma-tsut-sa.
+# text = Lekden iskul nang-o gae-na, tshimdogo gon iskul nang-o khrag-o ma-tsu-tsa.
 # trans = ?? Lekden was walking to school, but did not arrive.
 1	Lekden	Lekden	PROPN	_	Case=Abs	4	nsubj	_	_
 2	iskul	iskul	NOUN	_	_ 	3	nmod	_	_
@@ -2330,7 +2330,7 @@
 11	matsutsa	tsu	AUX	_	Aspect=Imp	10	aux	_	_
 12	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 284
+# sent_id = 237
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Ngat sa-ru nyit-si na.
 # trans = I am sitting here.
@@ -2340,7 +2340,7 @@
 4	na	na	AUX	_	_	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 285
+# sent_id = 238
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Tom sa-ru nyit-si nak-sa.
 # trans = Tom is sitting.
@@ -2350,9 +2350,9 @@
 4	naksa	na	AUX	_	Aspect=Imp	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 286
+# sent_id = 239
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Tom sa-ru nyit-si nyis.
+# text = Tom sa-ru nyit-si nyi-s.
 # trans = Tom was sitting.
 1	Tom	Tom	PROPN	_	Case=Abs	3	nsubj	_	_
 2	saru	saru	NOUN	_	_	3	obj	_	_
@@ -2360,7 +2360,7 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 287
+# sent_id = 240
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Tom sa-ru nyit-si-ra nak-sa.
 # trans = Tom was sitting and continues to be sitting.
@@ -2370,16 +2370,16 @@
 4	naksa	na	AUX	_	_	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 288
+# sent_id = 241
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Tom saru nyis.
+# text = Tom sa-ru nyi-s.
 # trans = Tom sat.
 1	Tom	Tom	PROPN	_	Case=Abs	3	nsubj	_	_
 2	saru	saru	NOUN	_	_	3	obj	_	_
 3	nyis	nyit	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 289
+# sent_id = 242
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Tom yang-zi nak-sa.
 # trans = Tom is standing.
@@ -2388,16 +2388,16 @@
 3	naksa	na	AUX	_	Aspect=Imp	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 290
+# sent_id = 243
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Tom yang-zi nyis.
+# text = Tom yang-zi nyi-s.
 # trans = Tom was standing/?stood.
 1	Tom	Tom	PROPN	_	Case=Abs	2	nsubj	_	_
 2	yangzi	yang	VERB	_	_	0	root	_	_
 3	nyis	nyit	AUX	_	Aspect=Perf	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 291
+# sent_id = 244
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Tom yang.
 # trans = Tom stood up.
@@ -2405,27 +2405,27 @@
 2	yang	yang	VERB	_	_	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 292
+# sent_id = 245
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Wi goti phis bi-ge.
+# text = Wi gote phi-s-bi-ge.
 # trans = Did you open the window?
 1	Wi	wi	PRON	_	Case=Abs|Person=2	3	nsubj	_	_
 2	gote	gote	NOUN	_	_	3	obj	_	_
 3	phisbige	phi	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 293
+# sent_id = 246
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Ngai goti phis.
+# text = Ngai gote phi-s.
 # trans = I opened the window.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
 2	gote	gote	NOUN	_	_	3	obj	_	_
 3	phis	phi	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 294
+# sent_id = 247
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Min, ngai goti ma-pis.
+# text = Min, ngai gote ma-phi-s.
 # trans = No, I did not open the window.
 1	Min	min	INTJ	_	_	5	discourse	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
@@ -2434,7 +2434,7 @@
 5	maphis	phi	VERB	_	Polarity=Neg|Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 295
+# sent_id = 248
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Wet soto thung-ba?
 # trans = Did you brush your teeth?
@@ -2443,7 +2443,7 @@
 3	thungba	thung	VERB	_	_	0	root	_	_
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 296
+# sent_id = 249
 # file_id = FM15_20151016-6_Tom_TAM
 # text = Gon soto thung-za.
 # trans = He is brushing his teeth.
@@ -2452,45 +2452,45 @@
 3	thungza	thung	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 297
+# sent_id = 250
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Wet shra-rang bu-s bi-ge?
+# text = Wet zhra-rang bu-s-bi-ge?
 # trans = What did you do?
 1	Wet	wet	PRON	_	Case=Abs|Person=2	3	nsubj	_	_
 2	zhrarang	zhra	PRON	_	PronType=Int	3	obj	_	_
 3	busbige	bus	VERB	_	Aspect=Perf	0	root	_	_
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 298
+# sent_id = 251
 # file_id = FM15_20151016-6_Tom_TAM
-# text = Ngai shre-go mui-zi au-s.
+# text = Ngai zhre-go ngui-zi o-s.
 # trans = I bought and took food.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
-2	zhego	zhego	NOUN	_	_	3	obj	_	_
+2	zhrego	zhrego	NOUN	_	_	3	obj	_	_
 3	nguizi	ngui	VERB	_	VerbForm=Conv	0	root	_	_
 4	os	ot	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 299
+# sent_id = 252
 # file_id = FM15_20151023_6
-# text = Nang-zi nyis.
+# text = Nang-zi nyi-s.
 # trans = He was choking/choked.
 1	Nangzi	nang	VERB	_	VerbForm=Conv	0	root	_	_
 2	nyis	nyit	AUX	_	Aspect=Perf	1	aux	_	_
 3	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 300
+# sent_id = 253
 # file_id = FM15_20151023_6
-# text = Gon nang-zi rang nyit.
+# text = Gon nang-zi-rang nyit.
 # trans = He chokes (frequently).
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	2	nsubj	_	_
 2	nangzirang	nang	VERB	_	VerbForm=Conv	0	root	_	_
 3	nyit	nyi	AUX	_	_	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 301
+# sent_id = 254
 # file_id = FM15_20151023_6
-# text = Gon lu-thung-zi nak-sa.
+# text = Gon lu thung-zi nak-sa.
 # trans = He is dancing.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	lu	lu	NOUN	_	_	3	obj	_	_
@@ -2498,24 +2498,24 @@
 4	naksa	na	AUX	_	Aspect=Imp	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 302
+# sent_id = 255
 # file_id = FM15_20151023_6
-# text = Lu-tung-zi rang nyit.
+# text = Lu thung-zi-rang nyit.
 # trans = He dances (frequently).
 1	Lu	lu	NOUN	_	_	2	obj	_	_
 2	thungzirang	thung	VERB	_	VerbForm=Conv	0	root	_	_
 4	nyit	nyit	AUX	_	_	2	aux	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 304
+# sent_id = 256
 # file_id = FM15_20151023_6
-# text = Siva wudu-na.
+# text = Siva wuduk-na.
 # trans = Siva is tired.
 1	Siva	Siva	PROPN	_	Case=Abs	2	nsubj	_	_
 2	wudukna	wuduk	VERB	_	Aspect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 305
+# sent_id = 257
 # file_id = FM15_20151023_6
 # text = Siva wuduk-su-mo.
 # trans = Siva was tired (no longer).
@@ -2523,26 +2523,26 @@
 2	wuduksumo	wuduk	VERB	_	VerbForm=Inf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 306
+# sent_id = 258
 # file_id = FM15_20151023_6
-# text = Ngat wudu-(s).
+# text = Ngat wuduk.
 # trans = I'm tired / I was tired (!!!).
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	2	nsubj	_	_
 2	wuduk	wuduk	VERB	_	_	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 307
+# sent_id = 259
 # file_id = FM15_20151023_6
-# text = Ngat sado-ning dom.
+# text = Ngat zado-ning dom.
 # trans = I met everyone / I have met everyone)
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	zadoning	zado	NOUN	_	Case=Com	3	obj	_	_
 3	dom	dom	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 308
+# sent_id = 260
 # file_id = FM15_20151023_6
-# text = Ngat sado-ning dom-zi nyi-s.
+# text = Ngat zado-ning dom-zi nyi-s.
 # trans = I was meeting everyone / I have met everyone.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	zadoning	zado	NOUN	_	Case=Com	3	obj	_	_
@@ -2550,23 +2550,23 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 309
+# sent_id = 261
 # file_id = FM15_20151023_6
-# text = Ngat sado-ning dom.
+# text = Ngat zado-ning dom.
 # trans = I have met everyone / I met everyone.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	zadoning	zado	NOUN	_	Case=Com	3	obj	_	_
 3	dom	dom	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 310
+# sent_id = 262
 # file_id = FM15_20151023_6
 # text = (Gon) se-zo-mo.
 # trans = He died.
 1	Sezomo	se	VERB	_	VerbForm=Inf	0	root	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 311
+# sent_id = 263
 # file_id = FM15_20151023_6
 # text = Gon shak-su-mo.
 # trans = He died (honourific).
@@ -2574,34 +2574,34 @@
 2	shaksumo	shak	VERB	_	VerbForm=Inf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 312
+# sent_id = 264
 # file_id = FM15_20151023_6
-# text = Phon tong-zo-mo.
+# text = Phon thong-zo-mo.
 # trans = The king has been killed.
 1	Phon	phon	NOUN	_	Case=Abs	2	nsubj	_	_
 2	thongzomo	thong	VERB	_	VerbForm=Inf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 313
+# sent_id = 265
 # file_id = FM15_20151023_6
-# text = Yuka sut-su-mo.
+# text = Yuka su-tsu-mo.
 # trans = Yuka has been killed.
 1	Yuka	Yuka	PROPN	_	Case=Abs	2	nsubj	_	_
 2	sutsumo	su	VERB	_	VerbForm=Inf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 314
+# sent_id = 266
 # file_id = FM15_20151023_6
-# text = Ngae goti phi-s.
+# text = Ngai gote phi-s.
 # trans = I opened the window.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
 2	gote	gote	NOUN	_	_	3	obj	_	_
 3	phis	phi	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 318
+# sent_id = 267
 # file_id = FM15_20151023_6
-# text = Shumbal-i myu bu-zi khrak.
+# text = Zhumbal-i myu buzi khrak.
 # trans = Cats meow (/? Cats go 'myu')
 1	Zhumbala	zhumbali	NOUN	_	Case=Erg	4	nsubj	_	_
 2	myu	myu	INTJ	_	_	4	discourse	_	_
@@ -2609,9 +2609,9 @@
 4	khrak	khrak	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 319
+# sent_id = 268
 # file_id = FM15_20151023_6
-# text = Ngat azae bu-zi rang gae.
+# text = Ngat azae buzi-rang gae.
 # trans = I went 'azae!'
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	4	nsubj	_	_
 2	azae	azae	INTJ	_	_	4	discourse	_	_
@@ -2619,9 +2619,9 @@
 4	gae	gae	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 320
+# sent_id = 269
 # file_id = FM15_20151023_6
-# text = Goni myumyu bu-zi khrak.
+# text = Gon-i myumyu buzi khrak.
 # trans = They meow
 1	Goni	gon	PRON	_	Case=Erg|Number=Sing|Person=3	4	nsubj	_	_
 2	myumyu	myumyu	INTJ	_	_	4	discourse	_	_	
@@ -2629,17 +2629,17 @@
 4	khrak	khrak	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 322
+# sent_id = 270
 # file_id = FM15_20151023_6
-# text = Sumbal-i me-tsek.
+# text = Zhumbal-i me-tshek.
 # trans = Cats do not bark.
 1	Zhumbala	zhumbali	NOUN	_	Case=Erg	2	nsubj	_	_
 2	metshek	tshek	VERB	_	Polarity=Neg	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 325
+# sent_id = 271
 # file_id = FM15_20151023_6
-# text = Tsaci nango kor-so nangi bresi gae.
+# text = Tshae nang-o kor-so nangi bre-si gae.
 # trans = If you put a stone into this bag, it will break.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	nango	nang	NOUN	_	Case=Loc	3	obl	_	_
@@ -2649,9 +2649,9 @@
 6	gae	gae	AUX	_	_	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 326
+# sent_id = 272
 # file_id = FM15_20151023_6
-# text = Tsaci nango kor-so shra rang bresi me-gai.
+# text = Tshae nang-o kor-so zhrarang bre-si me-gae.
 # trans = Even if you put a stone into this bag, it will not break.
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	nango	nang	NOUN	_	Case=Loc	3	obl	_	_
@@ -2661,16 +2661,16 @@
 6	megae	gae	AUX	_	Polarity=Neg	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 327
+# sent_id = 273
 # file_id = FM15_20151023_6
-# text = Wet se-za-ra.
+# text = Wet se-za ra.
 # trans = You will die.
 1	Wet	wet	PRON	_	Case=Abs|Person=2	2	nsubj	_	_
-2	sezara	se	VERB	_	Aspect=Imp|Evident=Nfh	0	root	_	_
+2	seza	se	VERB	_	Aspect=Imp|Evident=Nfh	0	root	_	_
 3	ra	ra	INTJ	_	_	2	discourse	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 328
+# sent_id = 274
 # file_id = FM15_20151023_6
 # text = Nyet yamba yas mi-bu.
 # trans = We will not work tomorrow.
@@ -2680,7 +2680,7 @@
 4	mibu	bu	AUX	_	Polarity=Neg	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 329
+# sent_id = 275
 # file_id = FM15_20151023_6
 # text = (Nyet) yamba yas mut.
 # trans = We do not work tomorrow.
@@ -2689,22 +2689,22 @@
 3	mut	ma	AUX	_	Polarity=Neg	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 330
+# sent_id = 276
 # file_id = FM15_20151023_6
 # text = Ngat ma-to gae, ngat igu di-za.
 # trans = Do not disturb me, I am writing letters.
 1	Ngat	ngat	PRON	_	Case=Dat|Number=Sing|Person=1	2	obj	_	_
-2	mato	to	VERB	_	Polarity=Neg|VerbForm=Inf	0	root	_	_
+2	ma-to	to	VERB	_	Polarity=Neg|VerbForm=Inf	0	root	_	_
 3	gae	gae	AUX	_	_	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 330-2
+# sent_id = 277
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	igu	igu	NOUN	_	_	3	obj	_	_
 3	diza	di	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 331
+# sent_id = 278
 # file_id = FM15_20151023_6
 # text = Dara gon igu ma-di-s.
 # trans = He is not writing letters.
@@ -2714,9 +2714,9 @@
 4	madis	di	VERB	_	Polarity=Neg|Aspect=Perf	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 332
+# sent_id = 279
 # file_id = FM15_20151023_6
-# text = Gon konti ceru nyit-si pesh lok-sa.
+# text = Gon kantri-jeru nyit-si pecha lok-sa.
 # trans = He is sitting in a chair and reading a book.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
 2	kantrijeru	kantri	NOUN	_	Case=Dat	3	obl	_	_	
@@ -2725,12 +2725,12 @@
 5	loksa	lok	VERB	_	Aspect=Imp	3	conj	_	_
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 333
+# sent_id = 280
 # file_id = FM15_20151023_6
-# text = Gon bamrati zu khwe thong bu-zi njit-na
+# text = Gon bamrati zu khwé thong buzi nyit-na
 # trans = He is eating bread and drinking water.
 1	Gon	gon	PRON	_	Case=Abs|Number=Sing|Person=3	3	nsubj	_	_
-2 	bamrati	bamrati	NOUN	_	_	3	obj	_	_
+2 bamrati	bamrati	NOUN	_	_	3	obj	_	_
 3	zu	zu	VERB	_	_	0	root	_	_
 4	khwé	khwé	NOUN	_	_	5	obj	_	_
 5	thong	thong	VERB	_	_	3	conj	_	_
@@ -2738,9 +2738,9 @@
 7	nyitna	nyit	AUX	_	Aspect=Perf	5	aux	_	_
 8	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 334
+# sent_id = 281
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Ngat bum nang-ning turu yam go-zi gae
+# text = Ngat bum nang-ning turu yam go-zi gae.
 # trans = I walked through the forest.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	bum	bum	NOUN	_	_	3	nmod	_	_
@@ -2751,9 +2751,9 @@
 7	gae	gae	AUX	_	_	6	aux	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 335
+# sent_id = 282
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bum nang-ning tsho-ro yam go-zi ra-s
+# text = Bum nang-ning tshena yam go-zi ra-s.
 # trans = I walked from the forest to here.
 1	Bum	bum	NOUN	_	_	2	nmod	_	_
 2	nangning	nang	NOUN	_	Case=Abl	5	obl	_	_
@@ -2763,7 +2763,7 @@
 6	ras	ra	AUX	_	Aspect=Perf	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 336
+# sent_id = 283
 # file_id = FM15_20151030_4_2_Trom_connected-AME
 # text = Ngat dema bum nang-ning turu yam go-zi gae.
 # trans = Yesterday I walked through the forest.
@@ -2777,18 +2777,18 @@
 8	gae	gae	AUX	_	_	7	aux	_	_
 9	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 337
+# sent_id = 284
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Ngae po-de^ zop-sumo
+# text = Ngae po-de zop-su-mo.
 # trans = Suddenly I stood on a snake.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	3	nsubj	_	_
 2	pode	po	NOUN	_	Case=Dat	3	obj	_	_
 3	zopsumo	zop	VERB	_	VerbForm=Inf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 338
+# sent_id = 285
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Po-i ngae tawa tshe^
+# text = Po-i ngae tawa tsho.
 # trans = The snake bit me in the leg.
 1	Poi	po	NOUN	_	Case=Erg	4	nsubj	_	_
 2	ngae	ngae	PRON	_	Poss=Yes|Number=Sing|Person=1	3	nmod:poss	_	_
@@ -2796,18 +2796,18 @@
 4	tsho	tshok	VERB	_	_	0	root	_	_	
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 339
+# sent_id = 286
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Po-i tawa tshek-sang
+# text = Po-i tawa tshok-sang.
 # trans = The snake will bite my leg.
 1	Poi	po	NOUN	_	Case=Erg	3	nsubj	_	_
 2	tawa	tawa	NOUN	_	_	3	obj	_	_
 3	tshoksang	tshok	VERB	_	Evident=Nfh	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 340
+# sent_id = 287
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Ngae gor dum-di-gi-di, po-i jero thung
+# text = Ngae gor dum di-gi-di, po-i-jero thung.
 # trans = I took a stone and threw it at the snake. (Immediately).
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	7	nsubj	_	_
 2	gor	gor	NOUN	_	_	3	obj	_	_
@@ -2818,9 +2818,9 @@
 7	thung	thung	VERB	_	_	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 343
+# sent_id = 288
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Dema poza-de^ ning bome^-de^ namis bu-za-re
+# text = Dema boza-de-ning bome-de namis bu-za re.
 # trans = Yesterday, a boy and girl were playing in the street (it was reported to me).
 1	Dema	dema	NOUN	_	_	5	nmod:tmod	_	_
 2	bozadening	boza	NOUN	_	Case=Com|Definite=Ind	5	nsubj	_	_
@@ -2830,9 +2830,9 @@
 6	re	re	INTJ	_	_	5	discourse	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 344
+# sent_id = 289
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Dema poza-de^ ning bome^-de^i yam-na namis bu-za
+# text = Dema boza-de-ning bome-de yam-na namis bu-za.
 # trans = Yesterday a boy and girl were playing in the street.
 1	Dema	dema	NOUN	_	_	6	nmod:tmod	_	_
 2	bozadening	boza	NOUN	_	Case=Abs|Case=Com|Definite=Ind	6	nsubj	_	_
@@ -2842,9 +2842,9 @@
 6	buza	bu	VERB	_	Aspect=Imp	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 345
+# sent_id = 290
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Poza-de^ ning bome-de^, [yam-na] namis bu-zi nyi-s
+# text = Boza-de-ning bome, [yam-na] namis buzi nyi-s.
 # trans = A boy and girl played
 1	Bozadening	boza	NOUN	_	Case=Abs|Case=Com|Definite=Ind	6	nsubj	_	_
 2	bome	bome	NOUN	_	Definite=Ind	1	conj	_	_
@@ -2855,18 +2855,18 @@
 7	nyis	nyit	AUX	_	Aspect=Perf	6	aux	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 346
+# sent_id = 291
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Namis bu-zi-ra nyit
+# text = Namis buzi-ra nyit.
 # trans = [They] play repeatedly.
 1	Namis	namis	NOUN	_	_	2	obj	_	_
 2	buzira	buzi	VERB	_	VerbForm=Conv	0	root	_	_
 3	nyit	nyit	AUX	_	_	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 347
+# sent_id = 292
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Poza-de^ ning bome^-de^, namis bu-zi nyit-na
+# text = Boza-de-ning bome-de, namis buzi nyit-na.
 # trans = A boy and girl played (non-experiential)
 1	Bozadening	boza	NOUN	_	Case=Abs|Case=Com|Definite=Ind	5	nsubj	_	_
 2	bomede	bome	NOUN	_	Definite=Ind	1	conj	_	_
@@ -2876,18 +2876,18 @@
 6	nyitna	nyit	AUX	_	Aspect=Perf	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 348
+# sent_id = 293
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = namis bu-zi-ra nak-sa
+# text = Namis buzi-ra nak-sa.
 # trans = A boy and girl are playing (I see)
 1	Namis	namis	NOUN	_	_	2	obj	_	_
 2	buzira	buzi	VERB	_	VerbForm=Conv	0	root	_	_
 3	naksa	na	AUX	_	Aspect=Imp	2	aux	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 349
+# sent_id = 294
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bozi guli dum bu-zi bome ra cang-za
+# text = Boz-i guli dum bu-zi bome-ra tsang-za.
 # trans = The boy takes the ball and then throws it to the girl.
 1	Bozi	boza	NOUN	_	Case=Erg	3	nsubj	_	_
 2	guli	guli	NOUN	_	_	3	obj	_	_
@@ -2897,9 +2897,9 @@
 6	tsangza	tsang	VERB	_	Aspect=Imp	3	conj	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 350
+# sent_id = 295
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bozi guli dum-di-gi-di bome ra cang-za
+# text = Boz-i guli dum di-gi-di bome-ra tsang-za.
 # trans = As soon as the boy takes the ball he throws it to the girl.
 1	bozi	boza	NOUN	_	Case=Erg	3	nsubj	_	_
 2	guli	guli	NOUN	_	_	3	obj	_	_
@@ -2909,9 +2909,9 @@
 6	tsangza	tsang	VERB	_	Aspect=Imp	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 351
+# sent_id = 296
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Pozi guli dum bu-zi, caga-ning bome ra cang-za.
+# text = Boz-i guli dum buzi, caga-ning bome-ra tsang-za.
 # trans = The boy takes the ball, ? then unexpectedly throws it at the girl.
 1	Bozi	boza	NOUN	_	Case=Erg	3	nsubj	_	_
 2	guli	guli	NOUN	_	_	3	obj	_	_
@@ -2923,63 +2923,63 @@
 8	tsangza	tsang	VERB	_	Aspect=Imp	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 352
+# sent_id = 297
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bom-i lok-si cang-za
+# text = Bom-i lok-si tsang-za.
 # trans = The girl returns the throw
 1	Bomi	bome	NOUN	_	Case=Erg	3	nsubj	_	_
 2	loksi	lok	VERB	_	VerbForm=Conv	3	advcl	_	_
 3	tsangza	tsang	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 353
+# sent_id = 298
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bom-i lok-si rang cang-za
+# text = Bom-i lok-si-rang tsang-za.
 # trans = The girl returns the throw (emph?)
 1	Bomi	bome	NOUN	_	Case=Erg	3	nsubj	_	_	
 2	loksirang	lok	VERB	_	VerbForm=Conv	3	advcl	_	_
 3	tsangza	tsang	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 354
+# sent_id = 299
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Sha-ro-ra lok-si cang-za
+# text = Sharora lok-si tsang-za.
 # trans = (She is) continually returning (the ball).
 1	Sharora	sharora	ADV	_	_	3	advmod	_	_	
 2	loksi	lok	VERB	_	VerbForm=Conv	3	advcl	_	_
 3	tsangza	tsang	VERB	_	Aspect=Imp	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 355
+# sent_id = 300
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bom-e^ lok-si cang
+# text = Bome lok-si tsang.
 # trans = She returned the catch.
 1	Bome	bome	NOUN	_	Case=Abs	3	nsubj	_	_
 2	loksi	loksi	VERB	_	VerbForm=Conv	3	obj	_	_
 3	tsang	tsang	VERB	_	_	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 356
+# sent_id = 301
 # file_id = FM15_20151030_4_2_Trom_connected-AME
-# text = Bom-e^ lok-si cang-sumo
+# text = Bome lok-si tsang-su-mo.
 # trans = She returned the catch suddenly.
 1	Bome	bome	NOUN	_	Case=Abs	3	nsubj	_	_
 2	loksi	loksi	VERB	_	VerbForm=Conv	3	obj	_	_
 3	tsangsumo	tsang	VERB	_	VerbForm=Inf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 362
+# sent_id = 302
 # file_id = FM15_20150807_5_Tom.WAV
-# text = Tshae tebl cae-ró na
+# text = Tshae tébol-jeró na.
 # trans = (It is) above the table
 1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	téboljeró	tébol	NOUN	_	Case=Dat	0	root	_	_
 3	na	na	VERB	_	_	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 367
+# sent_id = 303
 # file_id = FM15_20150814_5_1_.WAV
-# text = Kanti ngae ebéloksó naksa
+# text = Kantri ngae ebéloksó nak-sa.
 # trans = The chair is to my right
 1	Kantri	kantri	NOUN	_	Case=Abs	3	nsubj	_	_
 2	ngae	ngae	PRON	_	Poss=Yes|Number=Sing|Person=1	3	nmod:poss	_	_
@@ -2987,18 +2987,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 368
+# sent_id = 304
 # file_id = FM15_20150814_5_1_.WAV
-# text = Kanti au naksigé?
+# text = Kantri ao nak-si-gé?
 # trans = Where is the chair?
 1	kantri	kantri	NOUN	_	Case=Abs	2	nsubj	_	_
 2	ao	ao	PRON	_	Case=Loc|PronType=Int	0	root	_	_
 3	naksigé	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 369
+# sent_id = 305
 # file_id = FM15_20150814_5_1_.WAV
-# text = Ngat kanti thrandó na
+# text = Ngat kantri trando na.
 # trans = I am near the table
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	3	nsubj	_	_
 2	kantri	kantri	NOUN	_	Case=Gen	3	nmod	_	_
@@ -3006,9 +3006,9 @@
 4	na	na	VERB	_	_	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 371
+# sent_id = 306
 # file_id = FM15_20150814_5_1_.WAV
-# text = Botl kanti zoné bato naksa
+# text = Botol kantri zon-e bar-o nak-sa.
 # trans = The bottle is between the two chairs
 1	Botol	botol	NOUN	_	Case=Abs	4	nsubj	_	_
 2	kantri	kantri	NOUN	_	Case=Gen	4	nmod	_	_
@@ -3017,9 +3017,9 @@
 5	naksa	na	VERB	_	Aspect=Imp	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 372
+# sent_id = 307
 # file_id = FM15_20150814_5_1_.WAV
-# text = Botl kanti korzi naksa
+# text = Botol kantri khor-zi nak-sa.
 # trans = The bottle is surrounded by the chairs
 1	Botol	botol	NOUN	_	_	3	obj	_	_
 2	kantri	kantri	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -3027,9 +3027,9 @@
 4	naksa	na	AUX	_	Aspect=Imp	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 378
+# sent_id = 308
 # file_id = FM15_20150814_5_1_.WAV
-# text = Pokto krongi sharloksó naksa
+# text = Pokto krong-i sharloksó nak-sa.
 # trans = The hill is East of the village
 1	Pokto	pokto	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krongi	krong	NOUN	_	Case=Gen	3	nmod	_	_
@@ -3037,18 +3037,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 373
+# sent_id = 309
 # file_id = FM15_20150814_5_1_.WAV
-# text = Brak au naksigé?
+# text = Brak ao nak-si-gé?
 # trans = Where is the cliff?
 1	Brak	brak	NOUN	_	Case=Abs	2	nsubj	_	_
 2	ao	au	PRON	_	Case=Loc|PronType=Int	0	root	_	_
 3	naksigé	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 374
+# sent_id = 310
 # file_id = FM15_20150814_5_1_.WAV
-# text = Brak krongi nuploksó naksa
+# text = Brak krong-i nuploksó nak-sa.
 # trans = The cliff is North of the village
 1	Brak	brak	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krongi	krong	NOUN	_	Case=Gen	3	nmod	_	_
@@ -3056,9 +3056,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 376
+# sent_id = 311
 # file_id = FM15_20150814_5_1_.WAV
-# text = Khwe krongi jangloksó naksa
+# text = Khwé krong-i jangloksó nak-sa.
 # trans = The river is [West] of the village
 1	Khwé	khwé	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krongi	krong	NOUN	_	Case=Gen	3	nmod	_	_
@@ -3066,9 +3066,9 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 377
+# sent_id = 312
 # file_id = FM15_20150814_5_1_.WAV
-# text = Ri krongi hloloksó naksa
+# text = Ri krong-i hloloksó nak-sa.
 # trans = The mountain is [South] of the village
 1	Ri	ri	NOUN	_	Case=Abs	3	nsubj	_	_
 2	krongi	krong	NOUN	_	Case=Gen	3	nmod	_	_
@@ -3076,18 +3076,18 @@
 4	naksa	na	VERB	_	Aspect=Imp	3	cop	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 381
+# sent_id = 313
 # file_id = FM15_20150904_3_12
-# text = karma ao gay bi ge?
+# text = Karma ao gae-bi-ge?
 # trans = Where did Karma go to?
 1	Karma	Karma	PROPN	_	Case=Abs	3	nsubj	_	_
 2	ao	ao	PRON	_	Case=Dat|PronType=Int	3	obl	_	_
 3	gaebige	gae	VERB	_	_	0	root	_	_
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 382
+# sent_id = 314
 # file_id = FM15_20150904_3_12
-# text = karm-i dorji arwa ton na ge?
+# text = Karm-i dorji arwa thong-na-ge?
 # trans = When did Karma see Dorji?
 1	Karmi	Karma	PROPN	_	Case=Erg	4	nsubj	_	_
 2	Dorji	Dorji	PROPN	_	_	4	obj	_	_
@@ -3095,26 +3095,26 @@
 4	thongnage	thong	VERB	_	Aspect=Perf	0	root	_	_
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 383
+# sent_id = 315
 # file_id = FM15_20150904_3_12
-# text = lekden don na
+# text = Lekden don-na.
 # trans = Lekden was sleeping.
 1	Lekden	Lekden	PROPN	_	Case=Abs	2	nsubj	_	_
 2	donna	don	VERB	_	Aspect=Perf	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 384
+# sent_id = 316
 # file_id = FM15_20150904_3_12
-# text = leki lekden ja na
+# text = Leki Lekden ja-na.
 # trans = Leki called Lekden.
 1	Leki	Leki	PROPN	_	Case=Erg	3	nsubj	_	_
 2	Lekden	Lekden	PROPN	_	_	3	obj	_	_
 3	jana	ja	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 385
+# sent_id = 317
 # file_id = FM15_20150904_3_12
-# text = lekden don zi nit mo leki ja na
+# text = Lekden don-zi nyit-mo Leki ja-na.
 # trans = Leki called Lekden when he was sleeping.
 1	Lekden	Lekden	PROPN	_	Case=Abs	2	nsubj	_	_
 2	donzi	don	VERB	_	VerbFrom=Conv	5	advcl	_	_
@@ -3123,9 +3123,9 @@
 5	jana	ja	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 386
+# sent_id = 318
 # file_id = FM15_20150904_3_12
-# text = leki lekden don zi nit mo ja na
+# text = Leki Lekden don-zi nyit-mo ja-na.
 # trans = Leki called Lekden when he was sleeping.
 1	Leki	Leki	PROPN	_	Case=Abs	5	nsubj	_	_
 2	Lekden	Lekden	PROPN	_	Case=Abs	3	nsubj	_	_
@@ -3134,9 +3134,9 @@
 5	jana	ja	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 387
+# sent_id = 319
 # file_id = FM15_20150904_3_12
-# text = leki lekden arwa ja na ge?
+# text = Leki Lekden arwa ja-na-ge?
 # trans = When did Leki call Lekden?
 1	Leki	Leki	PROPN	_	Case=Erg	4	nsubj	_	_
 2	Lekden	Lekden	PROPN	_	_	4	obj	_	_
@@ -3144,27 +3144,27 @@
 4	janage	ja	VERB	_	Aspect=Perf	0	root	_	_
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 388
+# sent_id = 320
 # file_id = FM15_20150904_3_12
-# text = dorji mai-ro naksa
+# text = Dorji mae-ro nak-sa.
 # trans = Dorji was living in the house.
 1	Dorji	Dorji	PROPN	_	Case=Abs	2	nsubj	_	_
 2	maero	mae	NOUN	_	Case=Dat	0	root	_	_
 3	naksa	na	VERB	_	Aspect=Imp	2	cop	_	_
 4	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 389
+# sent_id = 321
 # file_id = FM15_20150904_3_12
-# text = dorji mai-ro ni na
+# text = Dorji mae-ro nyi-na.
 # trans = Dorji was living in the house.
 1	Dorji	Dorji	PROPN	_	Case=Abs	3	nsubj	_	_
 2	maero	mae	NOUN	_	Case=Loc	3	obl	_	_
 3	nyina	nyit	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 390
+# sent_id = 322
 # file_id = FM15_20150904_3_12
-# text = karma dorji ni ppe mai-ro gay na
+# text = Karma Dorji nyi-ppe mae-ro gae-na.
 # trans = Karma went to the house where Dorji was living.
 1	Karma	Karma	PROPN	_	Case=Abs	5	nsubj	_	_
 2	Dorji	Dorji	PROPN	_	Case=Abs	2	nsubj	_	_
@@ -3173,18 +3173,18 @@
 5	gaena	gae	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 396
+# sent_id = 323
 # file_id = FM15_20150904_3_12
-# text = karm-i dorji ton na
+# text = Karm-i Dorji thong-na.
 # trans = Karma saw Dorji.
 1	Karmi	Karma	PROPN	_	Case=Erg	3	nsubj	_	_
 2	Dorji	Dorji	PROPN	_	_	3	obj	_	_
 3	thongna	thong	VERB	_	Aspect=Perf	0	root	_	_
 4	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 397
+# sent_id = 324
 # file_id = FM15_20150904_3_12
-# text = mi zade zakan ga
+# text = Mi zade za-khan ga.
 # trans = Everyone likes the restaurant.
 1	Mi	mi	NOUN	_	Case=Abs	4	nsubj	_	_
 2	zade	zado	DET	_	_	1	det	_	_
@@ -3192,9 +3192,9 @@
 4	ga	ga	VERB	_	_	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 400
+# sent_id = 325
 # file_id = FM15_20150904_3_12
-# text = mi zadi lekden yaspu zi zakan ga za
+# text = Mi zad-i Lekden yas buzi zakhan ga-za.
 # trans = Everyone liked the restaurant where Lekden works.
 1	Mi	mi	NOUN	_	Case=Abs	7	nsubj	_	_
 2	zadi	zado	DET	_	Definite=Ind	1	det	_	_	
@@ -3205,9 +3205,9 @@
 7	gaza	ga	VERB	_	Aspect=Imp	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 401
+# sent_id = 326
 # file_id = FM15_20150904_3_12
-# text = mi zadi ga kan zakan ashire yo?
+# text = Mi zad-i ga-khan zakhan ashila yo?
 # trans = Which restaurant did everyone like?
 1	Mi	mi	NOUN	_	_	3	nsubj	_	_
 2	zadi	zado	DET	_	Definite=Ind	1	det	_	_
@@ -3217,9 +3217,9 @@
 6	yo	yo	INTJ	_	_	5	discourse	_	_
 7	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 407
+# sent_id = 327
 # file_id = FM15_20150904_3_12
-# text = wizi klas arwa na ke?
+# text = Wizi klas arwa na-ke?
 # trans = When is your class?
 1	Wizi	wizi	PRON	_	Poss=Yes|Person=2	2	nmod:poss	_	_	
 2	klas	klas	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -3227,9 +3227,9 @@
 4	nake	na	VERB	_	_	3	cop	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 408
+# sent_id = 328
 # file_id = FM15_20150904_3_12
-# text = wizi (wet) kespineng arwa yo?
+# text = Wizi (wet) kespinen arwa yo?
 # trans = When is your birthday?
 1	Wizi	wizi	PRON	_	Poss=Yes|Person=2	2	nmod:poss	_	_
 2	kespinen	kespinen	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -3237,9 +3237,9 @@
 4	yo	yo	INTJ	_	_	3	discourse	_	_
 5	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 411
+# sent_id = 329
 # file_id = FM15_20150904_3_12
-# text = leki sha bu zi ngo zi ge?
+# text = Leki zhra buzi ngo-zi-ge?
 # trans = Why is Leki crying?
 1	Leki	Leki	PROPN	_	Case=Abs	4	nsubj	_	_
 2	zhra	zhra	PRON	_	Case=Abs|PronType=Int	3	nsubj	_	_
@@ -3247,9 +3247,9 @@
 4	ngozige	ngo	VERB	_	VerbForm=Conv	0	root	_	_
 5	?	?	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 414
+# sent_id = 330
 # file_id = FM_20150925_2
-# text = jamba na she nane, ngat skuul gay-sang.
+# text = Yamba né shik nane, ngat iskul gae-sang.
 # trans = If tomorrow will be sunny, I'll go to school.
 1	Yamba	yamba	NOUN	_	_	3	nmod:tmod	_	_
 2	né	né	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -3261,9 +3261,9 @@
 8	gaesang	gae	VERB	_	Evident=Nfh	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 410
+# sent_id = 331
 # file_id = FM15_20150904_3_12
-# text = demsura wet mai-ro adar gay bi ge?.
+# text = Demsura wet mae-ro adar gae-bi-ge?.
 # trans = When did you go back home last night?
 1	Demsura	demsura	NOUN	_	_	5	nmod:tmod	_	_	
 2	wet	wet	PRON	_	Case=Abs|Person=2	5	nsubj	_	_
@@ -3272,9 +3272,9 @@
 5	gaebige	gae	VERB	_	_	0	root	_	_
 6	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 416
+# sent_id = 332
 # file_id = FM_20150925_2
-# text = thara jo ra nane, ngat nango i-sang
+# text = Thara dara yoi na nane, ngat nang-o nyi-sang.
 # trans = If it's raining now, I'll stay inside.
 1	Thara	dara	NOUN	_	_	3	nmod:tmod	_	_
 2	yoi	yoi	NOUN	_	Case=Abs	3	nsubj	_	_
@@ -3286,17 +3286,17 @@
 8	nyisang	nyit	VERB	_	Evident=Nfh	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 417
+# sent_id = 333
 # file_id = FM_20150925_2
-# text = jo ra-n.
+# text = Yoi ra-n.
 # trans = It rains.
 1	Yoi	yo	NOUN	_	Case=Abs	2	nsubj	_	_
 2	ran	ra	VERB	_	_	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 418
+# sent_id = 334
 # file_id = FM_20150925_2
-# text = tom ra nane, phatii katchan gay-na.
+# text = Tom ra nane, phatii kacan gae-na.
 # trans = If Tom comes, the party is going to be good.
 1	Tom	Tom	PROPN	_	Case=Abs	2	nsubj	_	_
 2	ra	ra	VERB	_	_	7	advcl	_	_
@@ -3307,17 +3307,17 @@
 7	gaena	gae	VERB	_	Aspect=Perf	0	root	_	_
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 415
+# sent_id = 335
 # file_id = FM_20150925_2
-# text = na she-ksa
+# text = Né shik-sa.
 # trans = It's sunny.
 1	Né	né	NOUN	_	Case=Abs	2	nsubj	_	_
 2	shiksa	sheksa	VERB	_	Aspect=Imp	0	root	_	_	
 3	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 421
+# sent_id = 336
 # file_id = FM_20150925_2
-# text = wet skuul onga wen nane, pesha luk to go
+# text = Wet iskul onga wen nane, pecha luk-to go.
 # trans = If you're a student, you have to study.
 1	Wet	wet	PRON	_	Case=Abs|Person=2	3	nsubj	_	_
 2	iskul	iskul	NOUN	_	_	3	nmod	_	_
@@ -3330,9 +3330,9 @@
 9	go	go	AUX	_	_	8	aux	_	_
 10	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 423
+# sent_id = 337
 # file_id = FM_20150925_2
-# text = ngat poja wen nane, ngai thawa jikpala la.
+# text = Ngat poja wen nane, ngae tawa jikpala-la.
 # trans = If I were a man, I would have had big feet.
 1	Ngat	ngat	PRON	_	Case=Abs|Number=Sing|Person=1	2	nsubj	_	_
 2	poja	poja	NOUN	_	_	8	advcl	_	_	
@@ -3344,14 +3344,14 @@
 8	jikpalala	jikpala	ADJ	_	Degree=Pos	0	root	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 426
+# sent_id = 338
 # file_id = FM15_20151002_
-# text = ngai tom-ro zu-sang gi tsali di bi-s
+# text = Ngai Tom-ro zu-sang-gi tshali-di bi-s.
 # trans = I gave Tom orange to eat.
 1	Ngai	ngai	PRON	_	Case=Erg|Number=Sing|Person=1	5	nsubj	_	_
 2	Tomro	Tom	PROPN	_	Case=Dat	5	iobj	_	_
 3	zusanggi	zu	VERB	_	Evident=Nfh|VerbForm=Inf	5	xcomp	_	_
-4	tshalido	tshali	NOUN	_	Definite=Ind	4	obj	_	_
+4	tshalidi	tshali	NOUN	_	Definite=Ind	4	obj	_	_
 5	bis	bi	VERB	_	Aspect=Perf	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
