@@ -9988,7 +9988,8 @@
 6	gaezi	gae	VERB	_	VerbForm=Conv	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 6 snowball# text = yauto kaé boi rézi rézi rézi otó buzi.
+# sent_id = 6 snowball
+# text = yauto kaé boi rézi rézi rézi otó buzi.
 # trans = ‎and rolled and rolled and rolled balls going downhill and
 1	yauto	yau	ADV	_	Case=Dat	7	advmod	_	_
 2	kaé	ka	NOUN	_	Case=Gen	3	nmod	_	_
@@ -9999,7 +10000,9 @@
 7	otó	otó	VERB	_	VerbForm=Inf	0	root	_	_
 8	buzi	bu	AUX	_	VerbForm=Conv	7	aux	_	_
 9	.	.	PUNCT	_	_	7	punct	_	_
-# sent_id = 7-9 snowball# text = mau krongé trandó khraksa bumo tshéning boi zongó mitsukó	
+
+# sent_id = 7-9 snowball
+# text = mau krongé trandó khraksa bumo tshéning boi zongó mitsukó	
 # trans = ‎down there village GEN near ALL arrive IMPFV do when down there village nearby arrive do
 1	mau	mau	ADV	_	_	4	advmod	_	_
 2	krongé	krong	NOUN	_	Case=Gen	4	obl	_	_	
@@ -10012,7 +10015,8 @@
 9	mitsukó	tsu	AUX	_	Polarity=Neg	8	aux	_	_
 10	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 12-15 snowball# text = Tshéning rap thek bu mo gon nar khraz gigidi boili dong dek buzi
+# sent_id = 12-15 snowball
+# text = Tshéning rap thek bu mo gon nar khraz gigidi boili dong dek buzi
 # trans = ‎‎And then one day ‎it had slipped away from him before, and the ball came towards him
 1	Tshéning	tshé	ADV	_	Case=Abl	4	advmod	_	_
 2	rap	rap	NOUN	_	_	4	nmod:tmod	_	_
@@ -10066,7 +10070,8 @@
 4	nyis	nyit	AUX	_	Aspect=Perf	3	aux	_	_
 5	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 30-31-32# tshéning maeró gaemo shram gambo dangsang kratakpo gae
+# sent_id = 30-31-32
+# tshéning maeró gaemo shram gambo dangsang kratakpo gae
 # then ‎when we went home our shoes had completely gone hard
 1	tshéning	tshé	ADV	_	Case=Abl	3	advmod	_	_
 2	maeró	mae	NOUN	_	Case=Dat	3	obl	_	_
@@ -10076,7 +10081,8 @@
 6	kratakpo	kratakpo	ADJ	_	_	0	root	_	_	
 7	gae	gae	AUX	_	_	6	aux	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
-# sent_id = 33
+
+# sent_id = 33
 # tshéning tawaning yak gambo rangzi
 # ‎and our hands and feet were numb and
 1	tshéning	tshé	ADV	_	Case=Abl	4	advmod	_	_
@@ -10114,14 +10120,16 @@
 1	khiksi	khik	VERB	_	VerbForm=Conc	0	root	_	_
 2	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 43# rang buru mitsukó
+# sent_id = 43
+# rang buru mitsukó
 # ‎we couldn't do anything for being frozen
 1	rang	rang	VERB	_	_	0	root	_	_
 2	buru	bu	AUX	_	VerbForm=Inf	1	aux	_	_
 3	mitsukó	tsuk	AUX	_	Polarity=Neg	1	aux	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1 Scary dog# Rap thek bumo, ngat, charo maeró khortó gaemo, ɡoné maeró khwi chetpodé na.
+# sent_id = 1 Scary dog
+# Rap thek bumo, ngat, charo maeró khortó gaemo, ɡoné maeró khwi chetpodé na.
 # One day I was going to my friend's house for a visit. At his house there was a big dog.
 # one day 1s friend house.ALL spend.time.INF go.when 3s.poss house.LOC dog grand.one
 1	Rap	rap	NOUN	_	_	3	advcl	_	_
@@ -10174,9 +10182,11 @@
 3	joajoa	joajoa	ADV	_	_	2	advmod	_	_
 4	gaemo	gae	VERB	_	VerbForm=Inf	2	advcl	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
-# sent_id = 8 snowball
+
+# sent_id = 8 snowball
 # boi namésamé jikpala gae bu.
-# ‎the balls became too big1	Boi	boi	NOUN	_	Case=Abs	3	nsubj	_	_
+# ‎the balls became too big
+1	Boi	boi	NOUN	_	Case=Abs	3	nsubj	_	_
 2	namésamé	namésamé	ADV	_	_	3	advmod	_	_
 3	jikpala	jikpala	ADJ	_	_	0	root	_	_
 4	gae	gae	AUX	_	_	3	aux	_	_
@@ -10193,7 +10203,8 @@
 
 # sent_id = 4 curry
 # Tshéning ki tshe ngrapwa buzi	kirkir liptó gó
-# next potato PROX thinner then	 round	slice should1	Tshéning	tshé	ADV	_	Case=Abl	4	advmod	_	_
+# next potato PROX thinner then	 round	slice should
+1	Tshéning	tshé	ADV	_	Case=Abl	4	advmod	_	_
 2	ki	ki	NOUN	_	_	4	obj	_	_
 3	tshe	tshe	DET	_	Definite=Ind	2	det	_	_
 4	ngrapwa	ngrapwa	VERB	_	_	7	xcomp	_	_
@@ -10220,15 +10231,18 @@
 
 # sent_id = 8 curry
 # Tshéning tsha cagadé yok buzi
-# next salt a.little add then1	Tshéning	tshé	ADV	_	Case=Abl	4	advmod	_	_
+# next salt a.little add then
+1	Tshéning	tshé	ADV	_	Case=Abl	4	advmod	_	_
 2	tsha	tsha	NOUN	_	_	4	obj	_	_	
 3	cjagadé	cjaga	DET	_	_	2	det	_	_
 4	yok	yok	VERB	_	_	0	root	_	_
 5	buzi	bu	AUX	_	VerbForm=Conv	4	aux	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 10 curry# Tshae caeró phrum yok buzi blek
-# PROX *** cheese add then leave1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
+# sent_id = 10 curry
+# Tshae caeró phrum yok buzi blek
+# PROX *** cheese add then leave
+1	Tshae	tshae	DET	_	Definite=Def	2	det	_	_
 2	djeró	dje	NOUN	_	Case=Dat	4	obl	_	_
 3	phrum	phrum	NOUN	_	_	4	obj	_	_
 4	yok	yok	VERB	_	_	6	advcl	_	_
@@ -10236,8 +10250,10 @@
 6	blek	blek	VERB	_	_	0	root	_	_
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 12 curry# Tshéning kha thrut buz blek buzi
-# next mouth close do leave then1	Tshéning	tshéning	ADV	_	_	5	advmod	_	_	
+# sent_id = 12 curry
+# Tshéning kha thrut buz blek buzi
+# next mouth close do leave then
+1	Tshéning	tshéning	ADV	_	_	5	advmod	_	_	
 2	kha	kha	NOUN	_	_	3	obj	_	_
 3	thrut	thrut	VERB	_	_	5	advcl	_	_
 4	buz	bu	AUX	_	VerbForm=Conv	3	aux	_	_
@@ -10245,8 +10261,10 @@
 6	buzi	bu	AUX	_	VerbForm=Conv	5	aux	_	_
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 14 curry# Tshéning ruk rap thék truk buzi chongzé bleksang thekbe wen
-# next curry time one stir then take.out *** one EQ.COP1	Tshéning	tshé	ADV	_	Case=Abl	8	advmod	_	_
+# sent_id = 14 curry
+# Tshéning ruk rap thék truk buzi chongzé bleksang thekbe wen
+# next curry time one stir then take.out *** one EQ.COP
+1	Tshéning	tshé	ADV	_	Case=Abl	8	advmod	_	_
 2	ruk	ruk	NOUN	_	_	5	obj	_	_
 3	rap	rap	NOUN	_	_	5	nmod:tmod	_	_
 4	thék	thék	NUM	_	NumType=Card	3	nummod	_	_	
@@ -10286,11 +10304,16 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # Snowballs
-# sent_id = 1# Rap thek nam gun .
-# One winter1	Rap	rap	NOUN	_	_	3	nmod:tmod	_	_
+# sent_id = 1
+# Rap thek nam gun .
+# One winter
+1	Rap	rap	NOUN	_	_	3	nmod:tmod	_	_
 2	thek	thek	NUM	_	NumType=Card	1	nummmod	_	_
 3	namgun	namgun	NOUN	_	Case=Abs	0	root	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_# sent_id = 2# Ka shruk buzi razé ka cen ramo
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# Ka shruk buzi razé ka cen ramo
 # ‎when it was snowing the heaviest, snow was pouring down,
 1	Ka	ka	NOUN	_	Case=Abs	4	nsubj	_	_
 2	shruk	shruk	ADV	_	_	3	advmod	_	_	
