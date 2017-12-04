@@ -1,4 +1,4 @@
-# sent_id = 21
+# sent_id = 1
 # file_id = FM15_20150904_8_2_Tom.wav
 # text = Lekden-i sha-bu-s bi-ge?
 # trans = What did Lekden do?
@@ -7,7 +7,7 @@
 3	busbige	bus	VERB	_	Aspect=Perf	0	root	_	_
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 22
+# sent_id = 2
 # file_id = FM15_20150904_8_2_Tom.wav
 # text = Lekden sha-bu-s bi-ge?
 # trans = What happened to Lekden?
@@ -16,7 +16,7 @@
 3	busbige	bus	VERB	_	Aspect=Perf	0	root	_	_
 4	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 24
+# sent_id = 3
 # file_id = FM15_20150904_8_2_Tom.wav
 # text = Lekden lu tung za.
 # trans = Lekden was dancing
