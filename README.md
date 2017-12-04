@@ -12,7 +12,7 @@ It contains:
 - 21 dependency relations
 - 13 POS tags
 
-All the sentences were was mostly collected from linguistic elicitation conducted during a linguistic field methods class in 2015, and subsequent elicitation sessions in 2016-2017 at the Australian National University. The dataset also includes data collected by Dr. Mark Donohue during his fieldwork in Bhutan in 2012.
+All the sentences were mostly collected from linguistic elicitation conducted during a linguistic field methods class in 2015, and subsequent elicitation sessions in 2016-2017 at the Australian National University. The dataset also includes data collected by Dr. Mark Donohue during his fieldwork in Bhutan in 2012.
 
 The sentences were manually annotated into Universal Dependencies, following the CoNLL-U format.
 
