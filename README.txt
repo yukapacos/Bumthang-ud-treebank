@@ -22,4 +22,4 @@ Bumthang Dependency Treebank was created by:
 KNOWN ISSUES
 
 - The size of BDT is extremely small. Over 1,000 Bumthang sentences are yet to be annotated to be incorporated into BDT.
-- Bumthang dependency morpho-syntax and BDT annotation scheme needs revisions on: auxiliary verb, indirect object, coordination
+- Bumthang dependency morpho-syntax and BDT annotation scheme require revisions on: auxiliary verb, indirect object, coordination
